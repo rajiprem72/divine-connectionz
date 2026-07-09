@@ -77,15 +77,10 @@ body{
 }
 
 .mobile-menu ul{
-
     display:flex;
-
     list-style:none;
-
     gap:35px;
-
     align-items:center;
-
 }
 
 .mobile-menu li{
