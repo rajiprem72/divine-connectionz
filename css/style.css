@@ -3,22 +3,24 @@ body{margin:0;font-family:Arial,Helvetica,sans-serif;line-height:1.7;background:
 
     max-width:1200px;
 
-    margin:auto;
+    margin:0 auto;
 
     display:flex;
 
-    justify-content:space-between;
-
     align-items:center;
 
+    justify-content:space-between;
+
     padding:15px 20px;
+
+    background:#ffffff;
 
 }
 .logo{
 
-    height:70px;
+    width:80px;
 
-    width:auto;
+    height:auto;
 
     display:block;
 
