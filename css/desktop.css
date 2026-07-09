@@ -326,6 +326,9 @@ footer p{
 /* ==========================================
    DESKTOP ONLY
 ========================================== */
+.mobile-topbar{
+    display:none;
+}
 
 .mobile-menu{
     display:none !important;
