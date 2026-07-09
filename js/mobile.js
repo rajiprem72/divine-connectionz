@@ -6,17 +6,19 @@
 document.addEventListener("DOMContentLoaded", function () {
 
     const button = document.querySelector(".menu-toggle");
-    const menu = document.getElementById("menu-wrapper");
+
+    const menuWrapper = document.getElementById("menuWrapper");
+
+    // Open / Close Menu
 
     button.addEventListener("click", function () {
 
-        menu.classList.toggle("open");
+        menuWrapper.classList.toggle("open");
 
     });
 
-});
+    // Accordion
 
-    // Accordion Menu
     const dropdownLinks = document.querySelectorAll(".dropdown > a");
 
     dropdownLinks.forEach(function(link){
@@ -33,14 +35,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
     });
 
-    // Close menu when a normal link is clicked
+    // Close menu after clicking normal link
+
     const menuLinks = document.querySelectorAll(".mobile-menu a");
 
     menuLinks.forEach(function(link){
 
         link.addEventListener("click", function(){
 
-            // Ignore dropdown headers
             if(this.nextElementSibling &&
                this.nextElementSibling.classList.contains("submenu")){
 
@@ -54,4 +56,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
     });
 
-
+});
