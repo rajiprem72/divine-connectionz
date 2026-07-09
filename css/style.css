@@ -1,55 +1,64 @@
-body{margin:0;font-family:Arial,Helvetica,sans-serif;line-height:1.7;background:#fff;color:#333}
+/* ==========================================
+   Divine Connectionz
+   Version 1.0
+========================================== */
+
+/* ---------- Reset ---------- */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:1.7;
+    background:#ffffff;
+    color:#333333;
+}
+
+/* ==========================================
+   HEADER
+========================================== */
+
 .topbar{
 
     max-width:1200px;
 
-    margin:0 auto;
+    margin:auto;
 
     display:flex;
 
-    align-items:center;
-
     justify-content:space-between;
+
+    align-items:center;
 
     padding:15px 20px;
 
     background:#ffffff;
 
 }
+
 .logo{
 
     width:80px;
 
     height:auto;
 
-    display:block;
-
-}
-/* ===========================
-   Desktop Navigation
-=========================== */
-
-.menu-toggle{
-    display:none;
 }
 
-.mobile-menu{
+/* ==========================================
+   DESKTOP MENU
+========================================== */
 
-    position:fixed;
+.menu-wrapper{
 
-    top:90px;          /* below the header */
+    flex:1;
 
-    left:0;
+    display:flex;
 
-    width:100%;
-
-    height:calc(100vh - 90px);
-
-    overflow-y:auto;
-
-    background:#fff;
-
-    z-index:999;
+    justify-content:center;
 
 }
 
@@ -59,19 +68,39 @@ body{margin:0;font-family:Arial,Helvetica,sans-serif;line-height:1.7;background:
 
     list-style:none;
 
-    margin:0;
+    gap:35px;
 
-    padding:0;
+    align-items:center;
 
 }
 
 .mobile-menu li{
 
-    padding:8px 15px;
+    position:relative;
 
 }
 
-.mobile-menu li ul{
+.mobile-menu a{
+
+    color:#333;
+
+    text-decoration:none;
+
+    font-size:20px;
+
+}
+
+.mobile-menu a:hover{
+
+    color:#ff6600;
+
+}
+
+/* ==========================================
+   SUB MENU
+========================================== */
+
+.submenu{
 
     display:none;
 
@@ -81,108 +110,100 @@ body{margin:0;font-family:Arial,Helvetica,sans-serif;line-height:1.7;background:
 
     left:0;
 
-    background:#fff;
+    background:#ffffff;
 
     min-width:220px;
 
-    box-shadow:0 2px 10px rgba(0,0,0,.2);
+    list-style:none;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+
+    z-index:999;
 
 }
 
-.mobile-menu li:hover ul{
+.submenu li{
+
+    padding:12px 18px;
+
+}
+
+.dropdown:hover .submenu{
 
     display:block;
 
 }
 
-.mobile-menu li ul li{
+/* ==========================================
+   HAMBURGER
+========================================== */
 
-    margin:0;
+.menu-toggle{
 
-    padding:10px;
+    display:none;
+
+    font-size:30px;
+
+    background:none;
+
+    border:none;
+
+    cursor:pointer;
 
 }
 
-.mobile-menu a{
+/* ==========================================
+   HERO
+========================================== */
 
-    text-decoration:none;
-
-    color:#333;
-
-}
 .hero img{
 
     width:100%;
 
-    height:auto;
-
     display:block;
 
 }
 
-/* ===========================
-   Mobile Navigation
-=========================== */
+/* ==========================================
+   CONTENT
+========================================== */
 
-@media (max-width:768px){
+main{
 
-    .menu-toggle{
+    max-width:900px;
 
-        display:block;
+    margin:auto;
 
-    }
-
-    .mobile-menu{
-
-        display:none;
-
-        width:100%;
-
-    }
-
-    .mobile-menu.open{
-
-        display:block;
-
-    }
-
-    .mobile-menu ul{
-
-        display:block;
-
-    }
-
-    .mobile-menu li{
-
-        margin:0;
-
-        padding:12px;
-
-    }
-
-    .mobile-menu li ul{
-
-        display:block;
-
-        position:static;
-
-        box-shadow:none;
-
-        padding-left:20px;
-
-    }
+    padding:40px 20px;
 
 }
 
-main{max-width:900px;margin:auto;padding:20px}
-section{margin-bottom:36px}
-h2{font-size:1.8rem}
-p{font-size:1.1rem}
-.social-icons{
+section{
 
-    margin-top:20px;
+    margin-bottom:40px;
 
 }
+
+h2{
+
+    margin-bottom:15px;
+
+    font-size:30px;
+
+}
+
+p{
+
+    font-size:18px;
+
+    text-align:justify;
+
+}
+
+/* ==========================================
+   FOOTER
+========================================== */
+
 footer{
 
     background:#f4f4f4;
@@ -202,9 +223,9 @@ footer{
 }
 
 footer p{
-    margin:0;
-    margin-bottom:18px;
-    font-size:18px;
+
+    margin-bottom:20px;
+
 }
 
 .social-icons{
@@ -213,17 +234,16 @@ footer p{
 
     justify-content:center;
 
-    align-items:center;
-
     gap:18px;
 
-    margin-top:15px;
+    flex-wrap:wrap;
 
 }
 
 .social-icons a{
 
     width:50px;
+
     height:50px;
 
     display:flex;
@@ -240,7 +260,7 @@ footer p{
 
     text-decoration:none;
 
-    font-size:26px;
+    font-size:24px;
 
     transition:.3s;
 
@@ -253,35 +273,83 @@ footer p{
     transform:translateY(-4px);
 
 }
-/* Hide submenu by default */
-.submenu {
-    display: none;
-    position: absolute;
-    background: white;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    min-width: 220px;
-    box-shadow: 0 2px 10px rgba(0,0,0,.2);
-}
 
-/* Show submenu on hover */
-.dropdown:hover .submenu {
-    display: block;
-}
+/* ==========================================
+   MOBILE
+========================================== */
 
-@media (max-width:768px){
+@media screen and (max-width:768px){
+
+    .menu-toggle{
+
+        display:block;
+
+    }
+
+    .menu-wrapper{
+
+        display:none;
+
+    }
+
+    .menu-wrapper.open{
+
+        display:block;
+
+        position:absolute;
+
+        top:100px;
+
+        left:0;
+
+        width:100%;
+
+        background:#ffffff;
+
+        border-top:1px solid #ddd;
+
+    }
+
+    .mobile-menu ul{
+
+        display:block;
+
+    }
+
+    .mobile-menu li{
+
+        padding:15px 20px;
+
+    }
 
     .submenu{
-        display:none;
+
         position:static;
+
+        display:none;
+
         box-shadow:none;
-        padding-left:20px;
+
+        min-width:100%;
+
     }
 
     .submenu.show{
+
         display:block;
+
+    }
+
+    h2{
+
+        font-size:26px;
+
+    }
+
+    p{
+
+        font-size:18px;
+
     }
 
 }
-
