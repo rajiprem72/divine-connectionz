@@ -35,11 +35,21 @@ body{margin:0;font-family:Arial,Helvetica,sans-serif;line-height:1.7;background:
 
 .mobile-menu{
 
-    display:flex;
+    position:fixed;
 
-    justify-content:flex-end;
+    top:90px;          /* below the header */
 
-    align-items:center;
+    left:0;
+
+    width:100%;
+
+    height:calc(100vh - 90px);
+
+    overflow-y:auto;
+
+    background:#fff;
+
+    z-index:999;
 
 }
 
@@ -57,9 +67,7 @@ body{margin:0;font-family:Arial,Helvetica,sans-serif;line-height:1.7;background:
 
 .mobile-menu li{
 
-    position:relative;
-
-    margin-left:25px;
+    padding:8px 15px;
 
 }
 
