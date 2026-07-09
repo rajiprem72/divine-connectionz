@@ -1,0 +1,538 @@
+/* ==========================================
+   Divine Connectionz
+   7days_video.css
+========================================== */
+
+/* ==========================================
+   Main Container
+========================================== */
+
+.course-page{
+
+    max-width:1200px;
+
+    margin:50px auto;
+
+    padding:0 20px;
+
+}
+
+/* ==========================================
+   Common Sections
+========================================== */
+
+.course-header,
+.course-introduction,
+.course-story,
+.learning-box,
+.featured-video,
+.course-summary,
+.course-lessons,
+.course-complete,
+.next-learning,
+.subscribe-box{
+
+    background:#ffffff;
+
+    padding:45px;
+
+    margin-bottom:45px;
+
+    border-radius:15px;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+
+}
+
+/* ==========================================
+   Header
+========================================== */
+
+.course-header{
+
+    background:linear-gradient(135deg,#fff7ea,#ffffff);
+
+    border-left:8px solid #ff9800;
+
+}
+
+.course-header h1{
+
+    font-size:42px;
+
+    color:#d46a00;
+
+    margin-bottom:25px;
+
+    text-align:center;
+
+}
+
+.course-header p{
+
+    font-size:21px;
+
+    line-height:1.9;
+
+    text-align:justify;
+
+}
+
+/* ==========================================
+   Section Titles
+========================================== */
+
+.course-page h2{
+
+    color:#d46a00;
+
+    margin-bottom:20px;
+
+    font-size:34px;
+
+}
+
+.course-page p{
+
+    font-size:20px;
+
+    line-height:1.9;
+
+    text-align:justify;
+
+    color:#444;
+
+}
+
+/* ==========================================
+   Learning Grid
+========================================== */
+
+.learning-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+
+    gap:25px;
+
+}
+
+.learning-item{
+
+    background:#fff8ef;
+
+    border-radius:12px;
+
+    padding:25px;
+
+    text-align:center;
+
+    transition:.3s;
+
+}
+
+.learning-item:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.learning-item h3{
+
+    margin:15px 0;
+
+    color:#d46a00;
+
+}
+
+.learning-item p{
+
+    text-align:center;
+
+    font-size:18px;
+
+}
+
+/* ==========================================
+   Featured Video
+========================================== */
+
+.loading-text{
+
+    text-align:center;
+
+    color:#d46a00;
+
+    font-size:20px;
+
+    margin-bottom:20px;
+
+}
+
+.video-container{
+
+    position:relative;
+
+    width:100%;
+
+    padding-bottom:56.25%;
+
+    height:0;
+
+}
+
+.video-container iframe{
+
+    position:absolute;
+
+    top:0;
+
+    left:0;
+
+    width:100%;
+
+    height:100%;
+
+    border:none;
+
+    border-radius:12px;
+
+}
+
+/* ==========================================
+   Course Summary
+========================================== */
+
+.summary-card{
+
+    max-width:700px;
+
+    margin:auto;
+
+}
+
+.summary-card table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+}
+
+.summary-card td{
+
+    border-bottom:1px solid #eeeeee;
+
+    padding:15px;
+
+    font-size:19px;
+
+}
+
+.summary-card td:first-child{
+
+    font-weight:bold;
+
+    color:#d46a00;
+
+}
+
+/* ==========================================
+   Lesson Cards
+========================================== */
+
+.lesson-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+
+    gap:30px;
+
+}
+
+.lesson-card{
+
+    background:#ffffff;
+
+    border-radius:15px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.10);
+
+    overflow:hidden;
+
+    transition:.35s;
+
+    padding:30px;
+
+}
+
+.lesson-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+}
+
+.lesson-number{
+
+    display:inline-block;
+
+    background:#ff9800;
+
+    color:white;
+
+    padding:8px 15px;
+
+    border-radius:25px;
+
+    font-size:15px;
+
+    margin-bottom:20px;
+
+}
+
+.lesson-card h3{
+
+    font-size:25px;
+
+    color:#222;
+
+    margin-bottom:18px;
+
+}
+
+.lesson-card p{
+
+    font-size:18px;
+
+    color:#555;
+
+    margin-bottom:25px;
+
+    text-align:left;
+
+}
+
+/* ==========================================
+   Buttons
+========================================== */
+
+.watch-btn,
+.primary-button,
+.secondary-button,
+.youtube-button,
+.nav-button{
+
+    display:inline-block;
+
+    padding:14px 28px;
+
+    background:#ff9800;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:8px;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.watch-btn:hover,
+.primary-button:hover,
+.secondary-button:hover,
+.youtube-button:hover,
+.nav-button:hover{
+
+    background:#d46a00;
+
+    transform:translateY(-3px);
+
+}
+
+/* ==========================================
+   Course Complete
+========================================== */
+
+.course-complete{
+
+    text-align:center;
+
+    background:#fff8ef;
+
+}
+
+.course-complete h2{
+
+    font-size:38px;
+
+}
+
+/* ==========================================
+   Continue Learning
+========================================== */
+
+.course-buttons{
+
+    margin-top:30px;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+}
+
+/* ==========================================
+   Subscribe
+========================================== */
+
+.subscribe-box{
+
+    text-align:center;
+
+    background:linear-gradient(135deg,#fffaf2,#ffffff);
+
+}
+
+.youtube-button{
+
+    margin-top:25px;
+
+}
+
+/* ==========================================
+   Navigation
+========================================== */
+
+.page-navigation{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin:60px 0;
+
+}
+
+.nav-button{
+
+    min-width:160px;
+
+    text-align:center;
+
+}
+
+/* ==========================================
+   Mobile
+========================================== */
+
+@media(max-width:768px){
+
+.course-page{
+
+    margin:25px auto;
+
+    padding:15px;
+
+}
+
+.course-header,
+.course-introduction,
+.course-story,
+.learning-box,
+.featured-video,
+.course-summary,
+.course-lessons,
+.course-complete,
+.next-learning,
+.subscribe-box{
+
+    padding:25px;
+
+}
+
+.course-header h1{
+
+    font-size:32px;
+
+}
+
+.course-page h2{
+
+    font-size:28px;
+
+}
+
+.course-page p{
+
+    font-size:18px;
+
+    text-align:left;
+
+}
+
+.lesson-grid{
+
+    grid-template-columns:1fr;
+
+}
+
+.lesson-card{
+
+    padding:25px;
+
+}
+
+.lesson-card h3{
+
+    font-size:22px;
+
+}
+
+.lesson-card p{
+
+    font-size:17px;
+
+}
+
+.course-buttons{
+
+    flex-direction:column;
+
+}
+
+.primary-button,
+.secondary-button,
+.youtube-button,
+.watch-btn,
+.nav-button{
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+}
+
+.page-navigation{
+
+    flex-direction:column;
+
+    gap:20px;
+
+}
+
+}
