@@ -253,3 +253,35 @@ footer p{
     transform:translateY(-4px);
 
 }
+/* Hide submenu by default */
+.submenu {
+    display: none;
+    position: absolute;
+    background: white;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    min-width: 220px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.2);
+}
+
+/* Show submenu on hover */
+.dropdown:hover .submenu {
+    display: block;
+}
+
+@media (max-width:768px){
+
+    .submenu{
+        display:none;
+        position:static;
+        box-shadow:none;
+        padding-left:20px;
+    }
+
+    .submenu.show{
+        display:block;
+    }
+
+}
+
