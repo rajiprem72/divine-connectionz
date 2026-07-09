@@ -4,9 +4,7 @@
 ========================================== */
 
 /* ---------- Reset ---------- */
-body{
-    background:red !important;
-}
+
 *{
     margin:0;
     padding:0;
@@ -67,11 +65,17 @@ body{
 }
 
 .mobile-menu ul{
+
     display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    gap:30px;
+
     list-style:none;
-    gap:35px;
-    margin:0;
-    padding:0;
+
 }
 
 .mobile-menu li{
@@ -89,18 +93,41 @@ body{
 }
 
 .submenu{
+
     display:none;
+
     position:absolute;
+
     top:100%;
+
     left:0;
-    background:white;
-    min-width:220px;
+
+    background:#fff;
+
     list-style:none;
-    box-shadow:0 4px 10px rgba(0,0,0,.2);
+
+    min-width:220px;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.15);
+
 }
 
-.dropdown:hover .submenu{
+.dropdown:hover > .submenu{
+
     display:block;
+
+}
+
+.submenu li{
+
+    padding:10px 15px;
+
+}
+
+.submenu li a{
+
+    display:block;
+
 }
 
 
@@ -261,26 +288,26 @@ footer p{
     display:none;
 
 }
-
-.menu-wrapper.open{
+   .menu-wrapper.open{
 
     display:block;
 
     position:absolute;
 
-    top:90px;
+    top:95px;
 
     left:0;
 
     width:100%;
 
-    background:white;
+    background:#fff;
 
-    border-top:1px solid #ddd;
-
-    z-index:1000;
+    z-index:999;
 
 }
+
+
+   
     .mobile-menu ul{
 
         display:block;
@@ -293,23 +320,23 @@ footer p{
 
     }
 
-    .submenu{
+    .menu-wrapper.open{
 
-        position:static;
+    display:block;
 
-        display:none;
+    position:absolute;
 
-        box-shadow:none;
+    top:95px;
 
-        min-width:100%;
+    left:0;
 
-    }
+    width:100%;
 
-    .submenu.show{
+    background:#fff;
 
-        display:block;
+    z-index:999;
 
-    }
+}
 
     h2{
 
