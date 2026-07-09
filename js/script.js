@@ -10,17 +10,18 @@ function toggleMenu(){
 
 }
 
-// Close Mobile Menu after clicking a link
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded",function(){
 
-    const links = document.querySelectorAll("#mobileMenu a");
+    document.querySelectorAll(".dropdown > a").forEach(function(item){
 
-    links.forEach(function (link) {
+        item.addEventListener("click",function(e){
 
-        link.addEventListener("click", function () {
+            if(window.innerWidth<=768){
 
-            if (window.innerWidth <= 768) {
-                document.getElementById("mobileMenu").classList.remove("open");
+                e.preventDefault();
+
+                this.nextElementSibling.classList.toggle("show");
+
             }
 
         });
