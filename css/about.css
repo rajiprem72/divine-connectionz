@@ -1,0 +1,310 @@
+/* ==========================================
+   Divine Connectionz
+   about.css
+========================================== */
+
+/* ==========================================
+   Main Container
+========================================== */
+
+.about-page{
+
+    max-width:1100px;
+
+    margin:50px auto;
+
+    padding:0 20px;
+
+}
+
+/* ==========================================
+   Sections
+========================================== */
+
+.about-section{
+
+    background:#ffffff;
+
+    padding:40px;
+
+    margin-bottom:40px;
+
+    border-radius:12px;
+
+    box-shadow:0 4px 15px rgba(0,0,0,.08);
+
+}
+
+.about-section h1{
+
+    font-size:42px;
+
+    color:#d46a00;
+
+    margin-bottom:25px;
+
+    text-align:center;
+
+}
+
+.about-section h2{
+
+    font-size:34px;
+
+    color:#d46a00;
+
+    margin-bottom:20px;
+
+}
+
+.about-section p{
+
+    font-size:20px;
+
+    line-height:1.9;
+
+    text-align:justify;
+
+    margin-bottom:18px;
+
+    color:#444;
+
+}
+
+.about-section ul{
+
+    margin:20px 0;
+
+    padding-left:25px;
+
+}
+
+.about-section li{
+
+    font-size:19px;
+
+    line-height:1.8;
+
+    margin-bottom:10px;
+
+}
+
+/* ==========================================
+   Founder Section
+========================================== */
+
+.about-founder{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:50px;
+
+    background:#fffaf4;
+
+    padding:45px;
+
+    margin-bottom:40px;
+
+    border-radius:12px;
+
+    box-shadow:0 4px 15px rgba(0,0,0,.08);
+
+}
+
+.founder-photo{
+
+    flex:0 0 320px;
+
+    text-align:center;
+
+}
+
+.founder-photo img{
+
+    width:100%;
+
+    max-width:300px;
+
+    border-radius:15px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.20);
+
+}
+
+.founder-content{
+
+    flex:1;
+
+}
+
+.founder-content h2{
+
+    color:#d46a00;
+
+    margin-bottom:20px;
+
+    font-size:36px;
+
+}
+
+.founder-content p{
+
+    font-size:20px;
+
+    line-height:1.9;
+
+    margin-bottom:18px;
+
+}
+
+blockquote{
+
+    margin-top:25px;
+
+    padding:20px;
+
+    background:#fff;
+
+    border-left:6px solid #ff9800;
+
+    font-style:italic;
+
+    font-size:22px;
+
+    color:#555;
+
+}
+
+/* ==========================================
+   GitHub Button
+========================================== */
+
+.download-button{
+
+    display:inline-block;
+
+    margin-top:15px;
+
+    padding:14px 28px;
+
+    background:#ff9800;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    border-radius:8px;
+
+    font-size:19px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.download-button:hover{
+
+    background:#d46a00;
+
+    transform:translateY(-3px);
+
+}
+
+/* ==========================================
+   Contact Section
+========================================== */
+
+.about-section strong{
+
+    color:#222;
+
+}
+
+/* ==========================================
+   Mobile
+========================================== */
+
+@media (max-width:768px){
+
+    .about-page{
+
+        margin:25px auto;
+
+        padding:15px;
+
+    }
+
+    .about-section{
+
+        padding:25px;
+
+    }
+
+    .about-founder{
+
+        flex-direction:column;
+
+        text-align:center;
+
+        padding:25px;
+
+    }
+
+    .founder-photo{
+
+        flex:none;
+
+    }
+
+    .founder-photo img{
+
+        max-width:240px;
+
+    }
+
+    .about-section h1{
+
+        font-size:34px;
+
+    }
+
+    .about-section h2{
+
+        font-size:28px;
+
+    }
+
+    .about-section p{
+
+        font-size:18px;
+
+        text-align:left;
+
+    }
+
+    .founder-content p{
+
+        text-align:left;
+
+    }
+
+    blockquote{
+
+        font-size:19px;
+
+    }
+
+    .download-button{
+
+        display:block;
+
+        text-align:center;
+
+        width:100%;
+
+    }
+
+}
