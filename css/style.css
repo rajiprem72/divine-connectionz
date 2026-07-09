@@ -48,100 +48,59 @@ body{
 
 }
 
-/* ==========================================
-   DESKTOP MENU
-========================================== */
+
+/* ===========================
+   MENU
+=========================== */
 
 .menu-wrapper{
-
     flex:1;
-
     display:flex;
-
     justify-content:center;
-
 }
 
 .mobile-menu{
-
     position:static;
-
-    width:auto;
-
-    height:auto;
-
-    overflow:visible;
-
-    background:transparent;
-
+    background:none;
 }
 
 .mobile-menu ul{
     display:flex;
     list-style:none;
     gap:35px;
-    align-items:center;
+    margin:0;
+    padding:0;
 }
 
 .mobile-menu li{
-
     position:relative;
-
 }
 
 .mobile-menu a{
-
-    color:#333;
-
     text-decoration:none;
-
-    font-size:20px;
-
+    color:#333;
+    font-size:22px;
 }
 
 .mobile-menu a:hover{
-
     color:#ff6600;
-
 }
-
-/* ==========================================
-   SUB MENU
-========================================== */
 
 .submenu{
-
     display:none;
-
     position:absolute;
-
     top:100%;
-
     left:0;
-
-    background:#ffffff;
-
+    background:white;
     min-width:220px;
-
     list-style:none;
-
-    box-shadow:0 5px 15px rgba(0,0,0,.15);
-
-    z-index:999;
-
-}
-
-.submenu li{
-
-    padding:12px 18px;
-
+    box-shadow:0 4px 10px rgba(0,0,0,.2);
 }
 
 .dropdown:hover .submenu{
-
     display:block;
-
 }
+
 
 /* ==========================================
    HAMBURGER
