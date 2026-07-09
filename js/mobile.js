@@ -6,7 +6,7 @@
 document.addEventListener("DOMContentLoaded", function () {
 
     const button = document.querySelector(".menu-toggle");
-    const menu = document.getElementById(".menu-wrapper");
+    const menu = document.getElementById("menu-wrapper");
 
     button.addEventListener("click", function () {
 
