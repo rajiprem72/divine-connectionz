@@ -5,15 +5,16 @@
 
 document.addEventListener("DOMContentLoaded", function () {
 
-    const menuButton = document.querySelector(".menu-toggle");
-    const menuWrapper = document.querySelector(".menu-wrapper");
+    const button = document.querySelector(".menu-toggle");
+    const menu = document.getElementById("mobileMenu");
 
-    // Toggle Hamburger Menu
-    menuButton.addEventListener("click", function () {
+    button.addEventListener("click", function () {
 
-        menuWrapper.classList.toggle("open");
+        menu.classList.toggle("open");
 
     });
+
+});
 
     // Accordion Menu
     const dropdownLinks = document.querySelectorAll(".dropdown > a");
