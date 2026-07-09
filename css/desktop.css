@@ -1,27 +1,324 @@
-<header>
+/* ==========================================
+   Divine Connectionz
+   desktop.css
+   Desktop Version (769px and above)
+========================================== */
 
-    LOGO
+/* ---------- Reset ---------- */
 
-    <!-- Desktop -->
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
-    <nav class="main-menu">
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#ffffff;
+    color:#333;
+    line-height:1.7;
+}
 
-        ...
+/* ==========================================
+   HEADER
+========================================== */
 
-    </nav>
+.topbar{
 
-    <!-- Mobile -->
+    max-width:1200px;
 
-    <button class="menu-toggle">
+    margin:auto;
 
-        ☰
+    padding:15px 25px;
 
-    </button>
+    display:flex;
 
-    <nav class="mobile-menu">
+    justify-content:space-between;
 
-        ...
+    align-items:center;
 
-    </nav>
+    background:#ffffff;
 
-</header>
+    border-bottom:1px solid #e5e5e5;
+
+    position:sticky;
+
+    top:0;
+
+    z-index:1000;
+
+}
+
+/* ==========================================
+   LOGO
+========================================== */
+
+.logo{
+
+    width:75px;
+
+    height:auto;
+
+    display:block;
+
+}
+
+/* ==========================================
+   HAMBURGER
+========================================== */
+
+.menu-toggle{
+
+    display:none;
+
+}
+
+/* ==========================================
+   HIDE MOBILE MENU
+========================================== */
+
+.mobile-menu{
+
+    display:none;
+
+}
+
+/* ==========================================
+   DESKTOP MENU
+========================================== */
+
+.desktop-menu{
+
+    flex:1;
+
+    display:flex;
+
+    justify-content:center;
+
+}
+
+.desktop-menu ul{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:35px;
+
+    list-style:none;
+
+}
+
+.desktop-menu li{
+
+    position:relative;
+
+}
+
+.desktop-menu a{
+
+    display:block;
+
+    text-decoration:none;
+
+    color:#333;
+
+    font-size:18px;
+
+    font-weight:500;
+
+    transition:.3s;
+
+}
+
+.desktop-menu a:hover{
+
+    color:#d46a00;
+
+}
+
+/* ==========================================
+   DROPDOWN
+========================================== */
+
+.submenu{
+
+    display:none;
+
+    position:absolute;
+
+    top:100%;
+
+    left:0;
+
+    width:240px;
+
+    background:#ffffff;
+
+    list-style:none;
+
+    border-radius:5px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+
+    overflow:hidden;
+
+}
+
+.dropdown:hover > .submenu{
+
+    display:block;
+
+}
+
+.submenu li{
+
+    width:100%;
+
+    border-bottom:1px solid #eeeeee;
+
+}
+
+.submenu li:last-child{
+
+    border-bottom:none;
+
+}
+
+.submenu a{
+
+    padding:12px 18px;
+
+    font-size:16px;
+
+}
+
+.submenu a:hover{
+
+    background:#f5f5f5;
+
+}
+
+/* ==========================================
+   HERO
+========================================== */
+
+.hero img{
+
+    width:100%;
+
+    display:block;
+
+}
+
+/* ==========================================
+   CONTENT
+========================================== */
+
+main{
+
+    max-width:900px;
+
+    margin:40px auto;
+
+    padding:0 20px;
+
+}
+
+section{
+
+    margin-bottom:40px;
+
+}
+
+h2{
+
+    font-size:32px;
+
+    margin-bottom:15px;
+
+    color:#222;
+
+}
+
+p{
+
+    font-size:19px;
+
+    text-align:justify;
+
+}
+
+/* ==========================================
+   FOOTER
+========================================== */
+
+footer{
+
+    background:#f4f4f4;
+
+    padding:35px 20px;
+
+}
+
+.footer-container{
+
+    max-width:900px;
+
+    margin:auto;
+
+    text-align:center;
+
+}
+
+footer p{
+
+    margin-bottom:20px;
+
+    font-size:17px;
+
+}
+
+.social-icons{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:18px;
+
+}
+
+.social-icons a{
+
+    width:50px;
+
+    height:50px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    border-radius:50%;
+
+    background:#555;
+
+    color:white;
+
+    text-decoration:none;
+
+    font-size:24px;
+
+    transition:.3s;
+
+}
+
+.social-icons a:hover{
+
+    background:#d46a00;
+
+    transform:translateY(-4px);
+
+}
