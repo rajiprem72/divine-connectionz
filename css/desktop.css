@@ -322,3 +322,19 @@ footer p{
     transform:translateY(-4px);
 
 }
+
+/* ==========================================
+   DESKTOP ONLY
+========================================== */
+
+.mobile-menu{
+    display:none !important;
+}
+
+.menu-toggle{
+    display:none !important;
+}
+
+.desktop-menu{
+    display:flex !important;
+}
