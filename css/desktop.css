@@ -141,7 +141,9 @@ body{
    DROPDOWN
 ========================================== */
 
-.submenu{
+/* Desktop Dropdown */
+
+.desktop-menu .submenu{
 
     display:none;
 
@@ -151,51 +153,39 @@ body{
 
     left:0;
 
-    width:240px;
+    width:220px;
 
-    background:#ffffff;
+    background:#fff;
 
     list-style:none;
 
-    border-radius:5px;
+    padding:0;
 
-    box-shadow:0 8px 20px rgba(0,0,0,.15);
+    margin:0;
 
-    overflow:hidden;
+    box-shadow:0 4px 12px rgba(0,0,0,.15);
 
 }
 
-.dropdown:hover > .submenu{
+.desktop-menu .dropdown:hover > .submenu{
 
     display:block;
 
 }
 
-.submenu li{
+.desktop-menu .submenu li{
+
+    display:block;
 
     width:100%;
 
-    border-bottom:1px solid #eeeeee;
-
 }
 
-.submenu li:last-child{
+.desktop-menu .submenu a{
 
-    border-bottom:none;
-
-}
-
-.submenu a{
+    display:block;
 
     padding:12px 18px;
-
-    font-size:16px;
-
-}
-
-.submenu a:hover{
-
-    background:#f5f5f5;
 
 }
 
