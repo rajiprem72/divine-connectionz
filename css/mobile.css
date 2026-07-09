@@ -220,6 +220,9 @@ footer{
 /* ==========================================
    MOBILE ONLY
 ========================================== */
+.desktop-topbar{
+    display:none;
+}
 
 .desktop-menu{
     display:none !important;
