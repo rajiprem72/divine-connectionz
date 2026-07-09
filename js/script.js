@@ -4,9 +4,9 @@
 // ======================================================
 
 // Toggle Mobile Menu
-function toggleMenu() {
+function toggleMenu(){
 
-    document.getElementById("mobileMenu").classList.toggle("open");
+    document.querySelector(".menu-wrapper").classList.toggle("open");
 
 }
 
