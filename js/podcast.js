@@ -5,20 +5,12 @@
 
 document.addEventListener("DOMContentLoaded", function () {
 
-    const rssUrl =
-        "https://anchor.fm/s/77d12244/podcast/rss";
+    const rssUrl = "data/podcast.xml";
 
     const container =
         document.getElementById("podcastEpisodes");
 
-    fetch(
-
-        "https://api.allorigins.win/raw?url=" +
-
-        encodeURIComponent(rssUrl)
-
-    )
-
+    fetch(rssUrl)
     .then(response => response.text())
 
     .then(xmlText => {
