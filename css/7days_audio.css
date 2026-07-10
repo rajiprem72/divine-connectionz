@@ -1,0 +1,330 @@
+/* ==========================================
+   Divine Connectionz
+   7days_audio.css
+========================================== */
+
+/* ==========================================
+   Main Container
+========================================== */
+
+.audio-page{
+
+    max-width:1200px;
+
+    margin:50px auto;
+
+    padding:0 20px;
+
+}
+
+/* ==========================================
+   Common Sections
+========================================== */
+
+.audio-header,
+.audio-introduction,
+.audio-benefits,
+.audio-list-section,
+.audio-complete{
+
+    background:#ffffff;
+
+    padding:45px;
+
+    margin-bottom:40px;
+
+    border-radius:15px;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+
+}
+
+/* ==========================================
+   Header
+========================================== */
+
+.audio-header{
+
+    background:linear-gradient(135deg,#fff7ea,#ffffff);
+
+    border-left:8px solid #ff9800;
+
+}
+
+.audio-header h1{
+
+    font-size:42px;
+
+    color:#d46a00;
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+}
+
+.audio-header p{
+
+    font-size:21px;
+
+    line-height:1.9;
+
+    text-align:justify;
+
+}
+
+/* ==========================================
+   Section Titles
+========================================== */
+
+.audio-page h2{
+
+    color:#d46a00;
+
+    font-size:34px;
+
+    margin-bottom:20px;
+
+}
+
+.audio-page p{
+
+    font-size:20px;
+
+    line-height:1.9;
+
+    color:#444;
+
+    text-align:justify;
+
+}
+
+/* ==========================================
+   Benefits Grid
+========================================== */
+
+.benefits-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+    gap:25px;
+
+}
+
+.benefit-card{
+
+    background:#fff8ef;
+
+    padding:25px;
+
+    border-radius:12px;
+
+    transition:.3s;
+
+}
+
+.benefit-card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 8px 20px rgba(0,0,0,.10);
+
+}
+
+.benefit-card h3{
+
+    color:#d46a00;
+
+    margin-bottom:15px;
+
+    font-size:24px;
+
+}
+
+.benefit-card p{
+
+    font-size:18px;
+
+    text-align:left;
+
+}
+
+/* ==========================================
+   Audio List
+========================================== */
+
+.audio-list-section h2{
+
+    text-align:center;
+
+}
+
+.audio-card{
+
+    display:flex;
+
+    gap:25px;
+
+    align-items:center;
+
+    background:#fafafa;
+
+    border:1px solid #eeeeee;
+
+    border-radius:15px;
+
+    padding:20px;
+
+    margin-bottom:25px;
+
+    transition:.3s;
+
+}
+
+.audio-card:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 8px 20px rgba(0,0,0,.10);
+
+}
+
+.audio-card img{
+
+    width:180px;
+
+    height:180px;
+
+    border-radius:12px;
+
+    object-fit:cover;
+
+    flex-shrink:0;
+
+}
+
+.audio-content{
+
+    flex:1;
+
+}
+
+.audio-content h3{
+
+    font-size:24px;
+
+    color:#222;
+
+    margin-bottom:20px;
+
+    line-height:1.5;
+
+}
+
+/* ==========================================
+   Audio Player
+========================================== */
+
+audio{
+
+    width:100%;
+
+    height:50px;
+
+}
+
+/* ==========================================
+   Completion Section
+========================================== */
+
+.audio-complete{
+
+    text-align:center;
+
+    background:linear-gradient(135deg,#fff8ef,#ffffff);
+
+}
+
+.audio-complete h2{
+
+    font-size:36px;
+
+}
+
+.audio-complete p{
+
+    text-align:center;
+
+}
+
+/* ==========================================
+   Mobile
+========================================== */
+
+@media(max-width:768px){
+
+    .audio-page{
+
+        margin:25px auto;
+
+        padding:15px;
+
+    }
+
+    .audio-header,
+    .audio-introduction,
+    .audio-benefits,
+    .audio-list-section,
+    .audio-complete{
+
+        padding:25px;
+
+    }
+
+    .audio-header h1{
+
+        font-size:30px;
+
+    }
+
+    .audio-page h2{
+
+        font-size:28px;
+
+    }
+
+    .audio-page p{
+
+        font-size:18px;
+
+        text-align:left;
+
+    }
+
+    .audio-card{
+
+        flex-direction:column;
+
+        text-align:center;
+
+    }
+
+    .audio-card img{
+
+        width:100%;
+
+        height:auto;
+
+        max-width:280px;
+
+    }
+
+    .audio-content h3{
+
+        font-size:21px;
+
+    }
+
+}
