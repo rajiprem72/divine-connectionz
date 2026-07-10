@@ -1,0 +1,104 @@
+.app-gallery-section {
+
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.app-gallery-section h2 {
+
+    text-align: center;
+    margin-bottom: 20px;
+    color: #d46a00;
+    font-size: 36px;
+}
+
+.gallery-intro {
+
+    text-align: center;
+    max-width: 850px;
+    margin: 0 auto 50px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+.app-gallery {
+
+    display: grid;
+    grid-template-columns:
+        repeat(auto-fit, minmax(260px, 1fr));
+
+    gap: 30px;
+}
+
+.app-card {
+
+    background: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+
+    box-shadow:
+        0 8px 25px rgba(0,0,0,.12);
+
+    transition: .3s;
+}
+
+.app-card:hover {
+
+    transform: translateY(-8px);
+}
+
+.app-card img {
+
+    width: 100%;
+    display: block;
+}
+
+.app-card h3 {
+
+    padding: 20px 20px 10px;
+    color: #222;
+    font-size: 24px;
+}
+
+.app-card p {
+
+    padding: 0 20px 25px;
+    line-height: 1.7;
+}
+
+.playstore-section {
+
+    text-align: center;
+    margin-top: 70px;
+}
+
+.playstore-button {
+
+    display: inline-block;
+
+    margin-top: 25px;
+
+    padding: 18px 40px;
+
+    background: #28a745;
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    border-radius: 50px;
+
+    transition: .3s;
+}
+
+.playstore-button:hover {
+
+    background: #1f8a39;
+
+    transform: scale(1.05);
+}
