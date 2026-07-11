@@ -1,104 +1,539 @@
-.app-gallery-section {
+/* ==========================================
+   MOBILE APP PAGE
+   mobile-app.css
+========================================== */
+
+.mobile-app-page {
 
     max-width: 1200px;
-    margin: 50px auto;
+
+    margin: 0 auto;
+
     padding: 20px;
+
+}
+
+/* ==========================================
+   HERO SECTION
+========================================== */
+
+.app-hero {
+
+    background: linear-gradient(
+        135deg,
+        #fff7ef,
+        #ffffff
+    );
+
+    border-radius: 20px;
+
+    padding: 50px 30px;
+
+    margin-bottom: 50px;
+
+    text-align: center;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+
+}
+
+.app-hero h1 {
+
+    font-size: 48px;
+
+    color: #d46a00;
+
+    margin-bottom: 25px;
+
+}
+
+.hero-text {
+
+    max-width: 850px;
+
+    margin: 0 auto;
+
+    font-size: 21px;
+
+    line-height: 1.9;
+
+    color: #444;
+
+}
+
+/* ==========================================
+   DOWNLOAD BOX
+========================================== */
+
+.download-box {
+
+    margin-top: 40px;
+
+    padding: 35px;
+
+    background: #ffffff;
+
+    border-radius: 16px;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,.08);
+
+}
+
+.download-box h2 {
+
+    color: #222;
+
+    margin-bottom: 15px;
+
+}
+
+.download-box p {
+
+    margin-bottom: 25px;
+
+}
+
+/* ==========================================
+   BUTTONS
+========================================== */
+
+.download-button,
+.playstore-button {
+
+    display: inline-block;
+
+    padding: 18px 40px;
+
+    border-radius: 50px;
+
+    text-decoration: none;
+
+    font-size: 22px;
+
+    font-weight: bold;
+
+    color: #ffffff;
+
+    background: linear-gradient(
+        135deg,
+        #28a745,
+        #1f8a39
+    );
+
+    transition: .3s ease;
+
+}
+
+.download-button:hover,
+.playstore-button:hover {
+
+    transform: translateY(-4px);
+
+    box-shadow: 0 12px 25px rgba(0,0,0,.18);
+
+}
+
+.large-button {
+
+    margin-top: 25px;
+
+}
+
+/* ==========================================
+   COMMON SECTIONS
+========================================== */
+
+.app-section {
+
+    background: #ffffff;
+
+    border-radius: 18px;
+
+    padding: 40px;
+
+    margin-bottom: 40px;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+
+}
+
+.app-section h2 {
+
+    font-size: 36px;
+
+    color: #d46a00;
+
+    margin-bottom: 25px;
+
+}
+
+.app-section p {
+
+    font-size: 19px;
+
+    line-height: 1.9;
+
+    color: #444;
+
+    margin-bottom: 20px;
+
+}
+
+.app-section ul {
+
+    padding-left: 30px;
+
+    margin-bottom: 20px;
+
+}
+
+.app-section li {
+
+    margin-bottom: 10px;
+
+    font-size: 18px;
+
+}
+
+/* ==========================================
+   FEATURE GRID
+========================================== */
+
+.feature-grid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(280px, 1fr)
+        );
+
+    gap: 25px;
+
+    margin-top: 30px;
+
+}
+
+.feature-card {
+
+    background: #fafafa;
+
+    border-radius: 16px;
+
+    padding: 25px;
+
+    border: 1px solid #eeeeee;
+
+    transition: .3s;
+
+}
+
+.feature-card:hover {
+
+    transform: translateY(-5px);
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.10);
+
+}
+
+.feature-card h3 {
+
+    color: #222;
+
+    font-size: 24px;
+
+    margin-bottom: 15px;
+
+}
+
+.feature-card p {
+
+    font-size: 17px;
+
+    margin-bottom: 12px;
+
+}
+
+/* ==========================================
+   APP GALLERY
+========================================== */
+
+.app-gallery-section {
+
+    margin-top: 70px;
+
 }
 
 .app-gallery-section h2 {
 
     text-align: center;
-    margin-bottom: 20px;
+
+    font-size: 40px;
+
     color: #d46a00;
-    font-size: 36px;
+
+    margin-bottom: 20px;
+
 }
 
 .gallery-intro {
 
-    text-align: center;
     max-width: 850px;
+
     margin: 0 auto 50px;
+
+    text-align: center;
+
     font-size: 20px;
-    line-height: 1.8;
+
+    line-height: 1.9;
+
+    color: #555;
+
 }
 
 .app-gallery {
 
     display: grid;
+
     grid-template-columns:
-        repeat(auto-fit, minmax(260px, 1fr));
+        repeat(
+            auto-fit,
+            minmax(260px, 1fr)
+        );
 
     gap: 30px;
+
 }
 
 .app-card {
 
     background: #ffffff;
+
     border-radius: 16px;
+
     overflow: hidden;
 
-    box-shadow:
-        0 8px 25px rgba(0,0,0,.12);
+    box-shadow: 0 10px 25px rgba(0,0,0,.10);
 
     transition: .3s;
+
 }
 
 .app-card:hover {
 
     transform: translateY(-8px);
+
 }
 
 .app-card img {
 
     width: 100%;
+
     display: block;
+
 }
 
 .app-card h3 {
 
-    padding: 20px 20px 10px;
-    color: #222;
     font-size: 24px;
+
+    color: #222;
+
+    padding: 20px 20px 10px;
+
 }
 
 .app-card p {
 
     padding: 0 20px 25px;
-    line-height: 1.7;
+
+    line-height: 1.8;
+
+    color: #555;
+
 }
+
+/* ==========================================
+   PLAY STORE SECTION
+========================================== */
 
 .playstore-section {
 
     text-align: center;
+
+    margin-top: 80px;
+
+    padding: 50px 20px;
+
+    background: linear-gradient(
+        135deg,
+        #fff8ef,
+        #ffffff
+    );
+
+    border-radius: 20px;
+
+}
+
+.playstore-section h2 {
+
+    font-size: 40px;
+
+    color: #d46a00;
+
+    margin-bottom: 20px;
+
+}
+
+.playstore-section p {
+
+    font-size: 20px;
+
+    color: #555;
+
+    margin-bottom: 30px;
+
+}
+
+/* ==========================================
+   FINAL SECTION
+========================================== */
+
+.app-footer {
+
+    text-align: center;
+
+    background: linear-gradient(
+        135deg,
+        #fff7ef,
+        #ffffff
+    );
+
+    padding: 60px 30px;
+
     margin-top: 70px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+
 }
 
-.playstore-button {
+.app-footer h2 {
 
-    display: inline-block;
+    color: #d46a00;
 
-    margin-top: 25px;
+    font-size: 42px;
 
-    padding: 18px 40px;
+    margin-bottom: 25px;
 
-    background: #28a745;
-
-    color: #ffffff;
-
-    text-decoration: none;
-
-    font-size: 24px;
-
-    font-weight: bold;
-
-    border-radius: 50px;
-
-    transition: .3s;
 }
 
-.playstore-button:hover {
+.app-footer p {
 
-    background: #1f8a39;
+    max-width: 850px;
 
-    transform: scale(1.05);
+    margin: 0 auto 20px;
+
+    font-size: 20px;
+
+    line-height: 1.8;
+
 }
+
+/* ==========================================
+   MOBILE RESPONSIVE
+========================================== */
+
+@media (max-width: 768px) {
+
+    .mobile-app-page {
+
+        padding: 15px;
+
+    }
+
+    .app-hero {
+
+        padding: 35px 20px;
+
+    }
+
+    .app-hero h1 {
+
+        font-size: 34px;
+
+    }
+
+    .hero-text {
+
+        font-size: 18px;
+
+    }
+
+    .app-section {
+
+        padding: 25px;
+
+    }
+
+    .app-section h2 {
+
+        font-size: 28px;
+
+    }
+
+    .app-section p {
+
+        font-size: 17px;
+
+    }
+
+    .feature-card h3 {
+
+        font-size: 20px;
+
+    }
+
+    .gallery-intro {
+
+        font-size: 17px;
+
+    }
+
+    .app-gallery-section h2 {
+
+        font-size: 30px;
+
+    }
+
+    .playstore-section h2 {
+
+        font-size: 30px;
+
+    }
+
+    .app-footer h2 {
+
+        font-size: 30px;
+
+    }
+
+    .download-button,
+    .playstore-button {
+
+        width: 100%;
+
+        font-size: 18px;
+
+        padding: 16px;
+
+    }
+}
+
+<a href="https://play.google.com/store/apps/details?id=com.murliaudio.app"
+   class="floating-download">
+   📱 Install App
+</a>
