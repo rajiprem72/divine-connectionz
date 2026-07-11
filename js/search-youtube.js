@@ -1,4 +1,4 @@
-     const API_KEY = 'AIzaSyDiFQhzkFVdYOz4NNcLiOGu--u6Lh2MvjY';
+     const API_KEY = 'AIzaSyDAVB7a599t2To9oz8oP__1_bhNb4YOoRg';
         const channelId = 'UCUdlewvf5aiwwG5AQ2v3Y0Q';
         function searchYoutube(){
             const searchValue = document.getElementById("search").value;
