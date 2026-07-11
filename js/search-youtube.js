@@ -5,20 +5,43 @@
             const searchUrl = `https://www.googleapis.com/youtube/v3/search?
 part=snippet&q=${searchValue}&type=video&channelId=${channelId}&maxResults=5&key=
 ${API_KEY}`;
-            fetch(searchUrl)
-            .then(response => response.json())
-            .then(data => {
-                // Extract the videoId and title from the results
-                const resultsBody = document.getElementById('results-body');
-                resultsBody.innerHTML = "";
-                data.items.forEach(function(item) {
-                    const videoId = item.id.videoId;
-                    const videoTitle = item.snippet.title;
-                    // Construct the link to the video
-                    const videoLink = `https://www.youtube.com/watch?v=${videoId}`;
-                    // Add the link to the results table
-                    resultsBody.innerHTML += `<tr><td>${videoTitle}</td><td><a 
-href="${videoLink}">${videoLink}</a></td></tr>`;
-                });
-            });
+          fetch(searchUrl)
+    .then(response => response.json())
+    .then(data => {
+
+        console.log(data);
+
+        if (data.error) {
+            alert(
+                data.error.message +
+                "\n\nReason: " +
+                data.error.errors[0].reason
+            );
+            return;
         }
+
+        const resultsBody = document.getElementById('results-body');
+
+        resultsBody.innerHTML = "";
+
+        data.items.forEach(function(item) {
+
+            const videoId = item.id.videoId;
+            const videoTitle = item.snippet.title;
+
+            const videoLink =
+                `https://www.youtube.com/watch?v=${videoId}`;
+
+            resultsBody.innerHTML += `
+                <tr>
+                    <td>${videoTitle}</td>
+                    <td>
+                        <a href="${videoLink}" target="_blank">
+                            ${videoLink}
+                        </a>
+                    </td>
+                </tr>
+            `;
+        });
+
+    });
