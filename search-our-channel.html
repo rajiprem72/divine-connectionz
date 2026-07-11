@@ -266,19 +266,103 @@ Rajayoga Classes in Tamil
 
    <main>
 
+<section class="search-channel-section">
 
+    <div class="container">
 
+        <h1>Search our YouTube Channel</h1>
 
+        <p>
+            As of date we have 5000+ videos in our Premanandhan Narayanan channel.
+            At least 5 to 10 people call us over phone or WhatsApp asking queries
+            about Raja Yoga meditation which helps individuals attain inner peace
+            and self-realization.
+        </p>
 
+        <p>
+            Even though most of their queries have already been uploaded as videos,
+            they find it difficult to locate the video title and link. So, we
+            decided to write a small piece of code which will search our YouTube
+            videos and provide the title and link. The result returns five videos;
+            the first few are related to the search term, while the next ones are
+            suggested videos.
+        </p>
 
+        <p>
+            Thanks to ChatGPT for helping us create the code.
+        </p>
 
-  <h2 align=center>UNDER CONSTRUCTION</h2>
+        <div class="search-box">
 
+            <label for="search">
+                Search our YouTube Channel by typing your query for the Title you are looking for:
+            </label>
 
+            <div class="search-form">
 
+                <input
+                    type="text"
+                    id="search"
+                    name="search"
+                    placeholder="Raja Yoga"
+                    value="Raja Yoga"
+                >
 
+                <button onclick="searchYoutube()">
+                    Search
+                </button>
 
-       
+            </div>
+
+        </div>
+
+        <div class="results-wrapper">
+
+            <table id="results">
+
+                <thead>
+                    <tr>
+                        <th>Video Title</th>
+                        <th>Video Link</th>
+                    </tr>
+                </thead>
+
+                <tbody id="results-body">
+
+                    <tr>
+                        <td>title 1</td>
+                        <td>youtube.com/link1</td>
+                    </tr>
+
+                    <tr>
+                        <td>title 2</td>
+                        <td>youtube.com/link2</td>
+                    </tr>
+
+                    <tr>
+                        <td>title 3</td>
+                        <td>youtube.com/link3</td>
+                    </tr>
+
+                    <tr>
+                        <td>title 4</td>
+                        <td>youtube.com/link4</td>
+                    </tr>
+
+                    <tr>
+                        <td>title 5</td>
+                        <td>youtube.com/link5</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</section>
 
     </main>
 
@@ -323,6 +407,7 @@ Rajayoga Classes in Tamil
 </footer>
 
 <script src="js/mobile.js"></script>
+<script src="js/search-youtube.js"></script>    
 <script type="application/ld+json">
 {
   "@context":"https://schema.org",
