@@ -587,6 +587,69 @@ Rajayoga Classes in Tamil
   ]
 }
 </script>
+<script>
 
+// Set today's date automatically
+
+window.addEventListener("DOMContentLoaded", function () {
+
+    const today = new Date();
+
+    const year = today.getFullYear();
+
+    const month = String(today.getMonth() + 1).padStart(2, "0");
+
+    const day = String(today.getDate()).padStart(2, "0");
+
+    document.getElementById("date").value =
+        `${year}-${month}-${day}`;
+
+});
+
+
+// Runs when Submit button is clicked
+
+function buildUrl() {
+
+    const language = document.getElementById("language").value;
+
+    const date = document.getElementById("date").value;
+
+    const action = document.getElementById("option").value;
+
+    if (!date) {
+
+        alert("Please select a date");
+
+        return;
+    }
+
+    // Convert yyyy-mm-dd → dd-mm-yyyy
+
+    const parts = date.split("-");
+
+    const formattedDate =
+        `${parts[2]}-${parts[1]}-${parts[0]}`;
+
+    let url = "";
+
+    if (action === "Listen Murli") {
+
+        url =
+            `https://murli.bkteam.net/audio/${language}/${formattedDate}.mp3`;
+
+    } else {
+
+        url =
+            `https://murli.bkteam.net/pdf/${language}/${formattedDate}.pdf`;
+
+    }
+
+    window.open(url, "_blank");
+}
+
+</script>
+
+    
 </body>
 </html>  
