@@ -1,0 +1,408 @@
+/* ==========================================
+   TAMIL DAILY VANI
+   tamil-vani.css
+========================================== */
+
+.tamil-vani-section {
+
+    padding: 60px 20px;
+
+    background: linear-gradient(
+        180deg,
+        #f5f7fb,
+        #ffffff
+    );
+
+}
+
+.tamil-vani-section .container {
+
+    max-width: 1200px;
+
+    margin: auto;
+
+}
+
+/* ==========================================
+   HERO SECTION
+========================================== */
+
+.hero-box {
+
+    background: #ffffff;
+
+    padding: 50px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+
+    margin-bottom: 50px;
+
+}
+
+.hero-box h1 {
+
+    text-align: center;
+
+    font-size: 46px;
+
+    color: #d46a00;
+
+    margin-bottom: 30px;
+
+}
+
+.hero-box p {
+
+    font-size: 20px;
+
+    line-height: 1.9;
+
+    color: #444;
+
+    margin-bottom: 20px;
+
+    text-align: justify;
+
+}
+
+/* ==========================================
+   VIDEO SECTION
+========================================== */
+
+.video-section {
+
+    background: #ffffff;
+
+    padding: 40px;
+
+    border-radius: 20px;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+
+    margin-bottom: 50px;
+
+}
+
+.video-section h2 {
+
+    text-align: center;
+
+    font-size: 36px;
+
+    color: #333;
+
+    margin-bottom: 15px;
+
+}
+
+.video-description {
+
+    text-align: center;
+
+    font-size: 18px;
+
+    color: #666;
+
+    margin-bottom: 30px;
+
+}
+
+/* ==========================================
+   RESPONSIVE VIDEO
+========================================== */
+
+.video-container {
+
+    position: relative;
+
+    width: 100%;
+
+    padding-bottom: 56.25%;
+
+    overflow: hidden;
+
+    border-radius: 15px;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,.15);
+
+}
+
+.video-container iframe {
+
+    position: absolute;
+
+    top: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+
+/* ==========================================
+   BENEFITS
+========================================== */
+
+.benefits-section {
+
+    margin-bottom: 50px;
+
+}
+
+.benefits-section h2 {
+
+    text-align: center;
+
+    font-size: 38px;
+
+    color: #d46a00;
+
+    margin-bottom: 35px;
+
+}
+
+.benefit-grid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(250px, 1fr)
+        );
+
+    gap: 25px;
+
+}
+
+.benefit-card {
+
+    background: #ffffff;
+
+    padding: 30px;
+
+    border-radius: 18px;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,.08);
+
+    transition: all .3s ease;
+
+}
+
+.benefit-card:hover {
+
+    transform: translateY(-6px);
+
+}
+
+.benefit-card h3 {
+
+    font-size: 24px;
+
+    color: #222;
+
+    margin-bottom: 15px;
+
+}
+
+.benefit-card p {
+
+    font-size: 17px;
+
+    line-height: 1.8;
+
+    color: #555;
+
+}
+
+/* ==========================================
+   GRATITUDE
+========================================== */
+
+.credit-box {
+
+    background: #fff8ef;
+
+    padding: 40px;
+
+    border-left: 6px solid #d46a00;
+
+    border-radius: 15px;
+
+    margin-bottom: 50px;
+
+}
+
+.credit-box h2 {
+
+    color: #d46a00;
+
+    font-size: 34px;
+
+    margin-bottom: 20px;
+
+}
+
+.credit-box p {
+
+    font-size: 19px;
+
+    line-height: 1.9;
+
+    color: #444;
+
+    text-align: justify;
+
+}
+
+/* ==========================================
+   YOUTUBE BUTTON
+========================================== */
+
+.playlist-button-box {
+
+    text-align: center;
+
+    margin-bottom: 30px;
+
+}
+
+.youtube-playlist-button {
+
+    display: inline-block;
+
+    background: #ff0000;
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+    font-size: 22px;
+
+    font-weight: bold;
+
+    padding: 18px 40px;
+
+    border-radius: 50px;
+
+    transition: all .3s ease;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,.15);
+
+}
+
+.youtube-playlist-button:hover {
+
+    background: #cc0000;
+
+    transform: translateY(-4px);
+
+}
+
+/* ==========================================
+   MOBILE
+========================================== */
+
+@media (max-width: 768px) {
+
+    .tamil-vani-section {
+
+        padding: 40px 15px;
+
+    }
+
+    .hero-box {
+
+        padding: 30px;
+
+    }
+
+    .hero-box h1 {
+
+        font-size: 34px;
+
+        line-height: 1.3;
+
+    }
+
+    .hero-box p {
+
+        font-size: 17px;
+
+    }
+
+    .video-section {
+
+        padding: 25px;
+
+    }
+
+    .video-section h2 {
+
+        font-size: 28px;
+
+    }
+
+    .video-description {
+
+        font-size: 16px;
+
+    }
+
+    .benefits-section h2 {
+
+        font-size: 30px;
+
+    }
+
+    .benefit-card {
+
+        padding: 25px;
+
+    }
+
+    .benefit-card h3 {
+
+        font-size: 21px;
+
+    }
+
+    .benefit-card p {
+
+        font-size: 16px;
+
+    }
+
+    .credit-box {
+
+        padding: 25px;
+
+    }
+
+    .credit-box h2 {
+
+        font-size: 28px;
+
+    }
+
+    .credit-box p {
+
+        font-size: 17px;
+
+    }
+
+    .youtube-playlist-button {
+
+        width: 100%;
+
+        font-size: 18px;
+
+        padding: 16px 20px;
+
+    }
+
+}
