@@ -3,7 +3,32 @@
     padding: 50px 20px;
 
 }
+.sakar-vani-section h1 {
 
+    color: #f59e0b;   /* Saffron */
+
+    font-size: 42px;
+
+    margin-bottom: 25px;
+
+    text-align: center;
+
+}
+
+.sakar-vani-section p {
+
+    font-size: 20px;
+
+    line-height: 1.8;
+
+    color: #444;
+
+}
+.hero-box h1 {
+
+    color: #f59e0b;
+
+}
 .table-wrapper {
 
     overflow-x: auto;
