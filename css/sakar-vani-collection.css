@@ -1,0 +1,94 @@
+.sakar-vani-section {
+
+    padding: 50px 20px;
+
+}
+
+.table-wrapper {
+
+    overflow-x: auto;
+
+    margin-top: 30px;
+
+    border-radius: 12px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+
+}
+
+.vani-table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+
+    background: #ffffff;
+
+    min-width: 700px;
+
+}
+
+.vani-table th {
+
+    background: #f59e0b;
+
+    color: white;
+
+    padding: 16px;
+
+    text-align: center;
+
+    font-size: 18px;
+
+}
+
+.vani-table td {
+
+    padding: 14px;
+
+    border-bottom: 1px solid #e5e5e5;
+
+    text-align: center;
+
+}
+
+.vani-table tr:nth-child(even) {
+
+    background: #fafafa;
+
+}
+
+.vani-table a {
+
+    color: #d97706;
+
+    font-weight: 600;
+
+    text-decoration: none;
+
+}
+
+.vani-table a:hover {
+
+    text-decoration: underline;
+
+}
+
+@media (max-width: 768px) {
+
+    .vani-table {
+
+        min-width: 600px;
+
+    }
+
+    .vani-table th,
+    .vani-table td {
+
+        padding: 10px;
+
+        font-size: 14px;
+
+    }
+
+}
