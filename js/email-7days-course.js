@@ -4,7 +4,7 @@
 // File         : email-7days-course.js
 // ==========================================================
 
-const SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxoR2xagdjRy1w8ubNOF4BKtOJszJ2dYeHTrHMWhqKcwVoAWeIzDk7PvXM0833dIVrU/exec";
 
 const form = document.getElementById("courseForm");
 const messageDiv = document.getElementById("message");
