@@ -162,16 +162,16 @@ strong{
 .popup-content {
     width: 90%;
     max-width: 900px;
+    max-height: 95vh;
 
     background: white;
 
     border-radius: 12px;
 
-    overflow: hidden;
+    overflow-y: auto;
 
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
 }
-
 .popup-content img {
     width: 100%;
     display: block;
