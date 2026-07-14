@@ -324,28 +324,34 @@
 .primary-button,
 .secondary-button,
 .youtube-button,
-.nav-button{
+.nav-button {
 
-    display:inline-block;
+    display: block;
 
-    padding:14px 28px;
+    width: calc(100% - 20px);
 
-    background:#ff9800;
+    margin: 15px auto 0;
 
-    color:white;
+    padding: 14px 28px;
 
-    text-decoration:none;
+    box-sizing: border-box;
 
-    border-radius:8px;
+    background: #ff9800;
 
-    font-size:18px;
+    color: white;
 
-    font-weight:bold;
+    text-decoration: none;
 
-    transition:.3s;
+    border-radius: 8px;
 
+    font-size: 18px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+    transition: .3s;
 }
-
 .watch-btn:hover,
 .primary-button:hover,
 .secondary-button:hover,
