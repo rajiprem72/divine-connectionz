@@ -181,30 +181,25 @@ blockquote{
    GitHub Button
 ========================================== */
 
-.download-button{
+.download-button {
+    display: block;
+    width: calc(100% - 20px);
+    box-sizing: border-box;
 
-    display:inline-block;
+    margin: 15px auto 0;
+    padding: 14px 28px;
 
-    margin-top:15px;
+    background: #ff9800;
+    color: #fff;
 
-    padding:14px 28px;
+    text-decoration: none;
+    border-radius: 8px;
 
-    background:#ff9800;
+    font-size: 19px;
+    font-weight: bold;
 
-    color:#fff;
-
-    text-decoration:none;
-
-    border-radius:8px;
-
-    font-size:19px;
-
-    font-weight:bold;
-
-    transition:.3s;
-
+    text-align: center;
 }
-
 .download-button:hover{
 
     background:#d46a00;
