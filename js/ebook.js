@@ -19,7 +19,9 @@ const books = {
 let currentLanguage = "";
 let currentPage = 1;
 let totalPages = 0;
-
+const audioLanguages = [
+    "tamil"
+];
 // =========================================================
 // HTML ELEMENTS
 // =========================================================
