@@ -39,19 +39,10 @@ const nextBtn = document.getElementById("next-btn");
 
 const pageNumber = document.getElementById("page-number");
 
-const audio = document.getElementById(
-    "page-audio"
-);
-
-audio.pause();
-
-audio.currentTime = 0;
 
 function playCurrentPageAudio() {
 
-    const language = document
-        .getElementById("language")
-        .value;
+   const language = currentLanguage;
 
     if (!audioLanguages.includes(language)) {
 
@@ -81,16 +72,6 @@ function playCurrentPageAudio() {
     });
 
 }
-function showPage() {
-
-    image.src = ...;
-
-    pageNumber.textContent = ...;
-
-}
-
-playCurrentPageAudio();
-
 // =========================================================
 // START COURSE
 // =========================================================
@@ -171,8 +152,10 @@ function loadPage() {
     updateButtons();
 
     preloadNextPage();
-}
 
+    playCurrentPageAudio();
+
+}
 // =========================================================
 // NEXT PAGE
 // =========================================================
