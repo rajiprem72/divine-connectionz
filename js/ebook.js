@@ -39,6 +39,58 @@ const nextBtn = document.getElementById("next-btn");
 
 const pageNumber = document.getElementById("page-number");
 
+const audio = document.getElementById(
+    "page-audio"
+);
+
+audio.pause();
+
+audio.currentTime = 0;
+
+function playCurrentPageAudio() {
+
+    const language = document
+        .getElementById("language")
+        .value;
+
+    if (!audioLanguages.includes(language)) {
+
+        return;
+
+    }
+
+    const audio = document
+        .getElementById("page-audio");
+
+    audio.pause();
+
+    audio.currentTime = 0;
+
+    audio.src =
+        `audio/${language}/${currentPage}.m4a`;
+
+    audio.load();
+
+    audio.play().catch(function (error) {
+
+        console.log(
+            "Audio playback blocked:",
+            error
+        );
+
+    });
+
+}
+function showPage() {
+
+    image.src = ...;
+
+    pageNumber.textContent = ...;
+
+}
+
+playCurrentPageAudio();
+
 // =========================================================
 // START COURSE
 // =========================================================
