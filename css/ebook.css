@@ -221,3 +221,42 @@ body {
         margin-bottom: 10px;
     }
 }
+.centre-message {
+    margin: 30px auto;
+    padding: 20px;
+    max-width: 900px;
+    background: #fff8f0;
+    border-left: 6px solid #ff9800;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    font-size: 17px;
+    line-height: 1.8;
+    color: #444;
+}
+
+.centre-message p {
+    margin: 12px 0;
+}
+
+.centre-message strong {
+    color: #c0392b;
+}
+
+.centre-message a {
+    color: #0066cc;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.centre-message a:hover {
+    color: #d35400;
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .centre-message {
+        margin: 20px 15px;
+        padding: 15px;
+        font-size: 16px;
+    }
+}
