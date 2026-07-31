@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Premanandhan Narayanan Home",
+    "type": "Home",
+    "address": "Anandha Bhavan,2nd Floor,26/15B, Periyar Main Road, Sreenivasa Nagar,Padi",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600050",
+    "country": "India",
+    "phone": "+91 9884486609",
+    "email": "premanandhan@gmail.com",
+    "website": "https://divine-connectionz.com/",
+    "latitude": 13.092389, 
+    "longitude": 80.181107
+  },
+   {
+    "id": 1,
+    "name": "Physiocure Clinic ",
+    "type": "Physiotheapy Clinic",
+    "address": "Anandha Bhavan,2nd Floor,26/15B, Periyar Main Road, Sreenivasa Nagar,Padi",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600050",
+    "country": "India",
+    "phone": "+91 9884486607",
+    "email": "rajipremanandhan@gmail.com",
+    "website": "https://rajiprem72.github.io/physiocure-clinic/index.html",
+    "latitude": 13.093194, 
+    "longitude": 80.182169
+  }
+]
