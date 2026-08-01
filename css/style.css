@@ -1,52 +1,147 @@
-<!DOCTYPE html>
-<html lang="en">
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
-<head>
+body{
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    font-family:Arial, Helvetica, sans-serif;
 
-    <title>VES School Locator</title>
+}
 
-    <!-- Leaflet CSS -->
-    <link rel="stylesheet"
-        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+header{
 
-    <link rel="stylesheet" href="css/style.css">
+    background:#003366;
 
-</head>
+    color:white;
 
-<body>
+    padding:18px;
 
-<header>
-    <h1>VES School Locator</h1>
-</header>
+    text-align:center;
 
-<div class="container">
+}
 
-    <div class="sidebar">
+.container{
 
-        <input
-            type="text"
-            id="searchBox"
-            placeholder="Search School...">
+    display:flex;
 
-        <div id="schoolList"></div>
+    height:calc(100vh - 70px);
 
-    </div>
+}
 
-    <div id="map"></div>
+.sidebar{
 
-</div>
+    width:38%;
 
-<!-- Leaflet -->
-<link rel="stylesheet"
-href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    overflow-y:auto;
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    border-right:1px solid #ddd;
 
-<script src="js/app.js"></script>
+    background:#f8f8f8;
 
-</body>
+}
 
-</html>
+#map{
+
+    width:62%;
+
+}
+
+#searchBox{
+
+    width:95%;
+
+    margin:10px;
+
+    padding:12px;
+
+    font-size:16px;
+
+}
+
+.school-card{
+
+    background:white;
+
+    margin:10px;
+
+    padding:15px;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    box-shadow:0 2px 5px rgba(0,0,0,.15);
+
+    transition:.3s;
+
+}
+
+.school-card:hover{
+
+    background:#eaf3ff;
+
+}
+
+.school-name{
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    color:#003366;
+
+}
+
+.school-address{
+
+    margin-top:8px;
+
+    color:#555;
+
+    font-size:14px;
+
+}
+
+.school-contact{
+
+    margin-top:10px;
+
+    font-size:14px;
+
+}
+
+.clickable{
+
+    cursor:pointer;
+
+}
+
+.clickable:hover{
+
+    color:#0066cc;
+
+    text-decoration:underline;
+
+}
+
+.school-contact{
+
+    margin-top:8px;
+
+}
+
+.school-contact a{
+
+    color:#0066cc;
+
+    text-decoration:none;
+
+}
+
+.school-contact a:hover{
+
+    text-decoration:underline;
+
+}
