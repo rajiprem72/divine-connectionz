@@ -1,0 +1,648 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Nagar (Head Quarters)",
+    "type": "Raja Yoga Centre",
+    "address": "Shanti Dham, H.no: 3702, Block: Q-96, 3rd Avenue Road, Opp: 14 Shopping Complex, Annanagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600040",
+    "country": "India",
+    "phone": [
+      "+91 99406 91620",
+      "+91 63690 03569"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.092193695930524, 
+    "longitude": 80.21796281606953
+  },
+  {
+    "id": 2,
+    "name": "Adyar",
+    "type": "Raja Yoga Centre",
+    "address": "Vaikundh Lighthouse, 79, 3rd Main Road, Kasturbha Nagar, Adyar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600020",
+    "country": "India",
+    "phone": [
+      "+91 98401 57158",
+      "+91 44 24426660"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.011482441239673, 
+    "longitude": 80.24879813951183
+  },
+  {
+    "id": 3,
+    "name": "Alwarpet",
+    "type": "Raja Yoga Centre",
+    "address": "H No: 348/243, Flat No 9, 2nd Floor, Saravana Apt, Ambujammal Street, TTK Road, Opp. Gandhi Nilayam, Alwarpet",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600018",
+    "country": "India",
+    "phone": [
+      "+91 95001 81330",
+      "+91 89390 01702"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.047353197622435, 
+    "longitude": 80.25660734396473
+  },
+  {
+    "id": 4,
+    "name": "Ambattur",
+    "type": "Raja Yoga Centre",
+    "address": "No: 81, Mounasamy Madam Street, Venkatapuram, Chennai Ambattur",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600053",
+    "country": "India",
+    "phone": [
+      "+91 99400 45261",
+      "+91 44 26580788"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.123767865337095, 
+    "longitude": 80.15082038113724
+  },
+  {
+    "id": 5,
+    "name": "Ashok Nagar",
+    "type": "Raja Yoga Centre",
+    "address": "Happy Home, H.no: 13, First Floor, Vadivel Street, Kattabomman Block, Japherkhanpet, Ashok Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600083",
+    "country": "India",
+    "phone": [
+      "+91 94444 96627",
+      "+91 86085 68864",
+      "+91 44 48047254"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.03131923095957, 
+    "longitude": 80.21166720493218
+  },
+  {
+    "id": 6,
+    "name": "Avadi",
+    "type": "Raja Yoga Centre",
+    "address": "D.no:6, Nagarathinam Street, Gandhinagar, Avadi",
+    "city": "Chennai",
+    "district": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "pincode": "600054",
+    "country": "India",
+    "phone": [
+      "+91 98401 40508",
+      "+91 44 26380083"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.125657608952869, 
+    "longitude": 80.09168322573579
+  },
+  {
+    "id": 7,
+    "name": "Broadway",
+    "type": "Raja Yoga Centre",
+    "address": "H.no: 179, Uvais Haji Building, 1st Floor, Prakasam Salai, Near Mannadi Metro Railway Station, Broadway",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600108",
+    "country": "India",
+    "phone": [
+      "+91 88259 04330",
+      "+91 99410 84545"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.099026262779326, 
+    "longitude": 80.28625767285499
+  },
+  {
+    "id": 8,
+    "name": "Chengalpattu",
+    "type": "Raja Yoga Centre",
+    "address": "H.no:18/25 B/3, Gokulapuram 1st Street, Chengalpattu",
+    "city": "Chengalpattu",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "603001",
+    "country": "India",
+    "phone": [
+      "+91 74189 44247"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.700424705957362, 
+    "longitude": 79.97871800562885
+  },
+  {
+    "id": 9,
+    "name": "Chromepet",
+    "type": "Raja Yoga Centre",
+    "address": "Old No. 10, New No.21, Nallappa Street, Nehru Nagar, Chromepet",
+    "city": "Chennai",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "600044",
+    "country": "India",
+    "phone": [
+      "+91 94452 87586",
+      "+91 97910 06188"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.947086919356888, 
+    "longitude": 80.14148834840698
+  },
+  {
+    "id": 10,
+    "name": "Happy Village Retreat Centre",
+    "type": "Raja Yoga Retreat Centre",
+    "address": "127, Happy Village, Perumal Koil Street, Kil Podavur, Po: Kandur, Via- Pannur Tal: Sunguvarchatram",
+    "city": "Chennai",
+    "district": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "pincode": "602108",
+    "country": "India",
+    "phone": [
+      "+91 94450 03290",
+      "+91 94450 22006",
+      "+91 44 27192041"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.945681967897384, 
+    "longitude": 79.84768846219731
+  },
+  {
+    "id": 11,
+    "name": "Kelambakkam",
+    "type": "Raja Yoga Centre",
+    "address": "D.no:49 And 50, Rajayoga Bhawan, Majith Nagar",
+    "city": "Chennai",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "603103",
+    "country": "India",
+    "phone": [
+      "+91 91500 09160"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.789448165881472, 
+    "longitude": 80.22102887421629
+  },
+  {
+    "id": 12,
+    "name": "Kodungaiyur",
+    "type": "Raja Yoga Centre",
+    "address": "New No.33, Old No. 313, 2nd Block, 3rd Main Road, Kaviyarasu Kannadasan Nagar, Kodungaiyur",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600118",
+    "country": "India",
+    "phone": [
+      "+91 97903 97582",
+      "+91 44 25540103"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.140841873348906, 
+    "longitude": 80.25728234032105
+  },
+  {
+    "id": 13,
+    "name": "Madhavaram",
+    "type": "Raja Yoga Centre",
+    "address": "Plot No: 7 & 8, Shiv Darshan Bhawan, 1st Cross Street, Natarajan Nagar Extention, Madhavaram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600060",
+    "country": "India",
+    "phone": [
+      "+91 99410 84545",
+      "+91 70923 17403"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.151576368465472, 
+    "longitude": 80.22650414265414
+  },
+  {
+    "id": 14,
+    "name": "Madipakkam",
+    "type": "Raja Yoga Centre",
+    "address": "Sai Anugraham, Plot No:32, Kathikeyapuram, 4th Street, Madipakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600091",
+    "country": "India",
+    "phone": [
+      "+91 98406 96100",
+      "+91 44 43529927"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.969851714040662, 
+    "longitude": 80.19415431874819
+  },
+  {
+    "id": 15,
+    "name": "Mamallapuram",
+    "type": "Raja Yoga Centre",
+    "address": "H No: 19a, Madha Koil Street, Opp Holy Family Church, Tal: Thiruporur, Mamallapuram",
+    "city": "Mamallapuram",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "603104",
+    "country": "India",
+    "phone": [
+      "+91 95000 49418"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.636249688083877, 
+    "longitude": 80.19353545199074
+  },
+  {
+    "id": 16,
+    "name": "Mandaiveli",
+    "type": "Raja Yoga Centre",
+    "address": "H No:8/21, 2nd Floor, Ammani Ammal Street, Mandaiveli",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600028",
+    "country": "India",
+    "phone": [
+      "+91 98407 43354",
+      "+91 44 24936660"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.036312754478308, 
+    "longitude": 80.26291642134862
+  },
+  {
+    "id": 17,
+    "name": "Maraimalainagar",
+    "type": "Raja Yoga Centre",
+    "address": "H.no: 9/27, Amaidhi Illam, Thiruthakka Devar Street, Maraimalainagar",
+    "city": "Maraimalainagar",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "603209",
+    "country": "India",
+    "phone": [
+      "+91 99446 43570",
+      "+91 99405 95995",
+      "+91 44 27455069"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.80217090583257, 
+    "longitude": 80.02522679170333
+  },
+  {
+    "id": 18,
+    "name": "Medavakkam",
+    "type": "Raja Yoga Centre",
+    "address": "Plot No: 22, Flat No: S3, Second House, VGP Vimala Nagar, IInd Cross Street, Medavakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600100",
+    "country": "India",
+    "phone": [
+      "+91 99624 24329"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.922594746822687, 
+    "longitude": 80.18803286025643
+  },
+  {
+    "id": 19,
+    "name": "Mogappair",
+    "type": "Raja Yoga Centre",
+    "address": "D.no: 590-591, Valliyammai Street, Nolambur, Mogappair",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600037",
+    "country": "India",
+    "phone": [
+      "+91 99406 91620",
+      "+91 63690 03569"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.083186843399202, 
+    "longitude": 80.16645899206058
+  },
+  {
+    "id": 20,
+    "name": "Nungambakkam",
+    "type": "Raja Yoga Centre",
+    "address": "H.no: 16 And 17, West Mada Street, Near Agatheeswarar Temple, Nungambakkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600034",
+    "country": "India",
+    "phone": [
+      "+91 94440 11194",
+      "+91 99400 38396",
+      "+91 44 28262627"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.063323949013459, 
+    "longitude": 80.2401617559527
+  },
+  {
+    "id": 21,
+    "name": "Poonamallee",
+    "type": "Raja Yoga Centre",
+    "address": "D.no:01, Shiv Jothi Bhawan, Kamaraj Street, Near Vaideeswara Temple, Poonamallee",
+    "city": "Chennai",
+    "district": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "pincode": "600056",
+    "country": "India",
+    "phone": [
+      "+91 99418 22236",
+      "+91 73581 91373"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.05514128833765, 
+    "longitude": 80.09928583892459
+  },
+  {
+    "id": 22,
+    "name": "Porur",
+    "type": "Raja Yoga Centre",
+    "address": "4/63, Shiv Jyoti Bhawan, Pillaiyar Koil Street, Karambakkam, Porur",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600116",
+    "country": "India",
+    "phone": [
+      "+91 95972 01933",
+      "+91 44 24763661"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.040855914179287, 
+    "longitude": 80.15717299163498
+  },
+  {
+    "id": 23,
+    "name": "Purasawalkam",
+    "type": "Raja Yoga Centre",
+    "address": "H.no: 69/31, Fairland Apartment, Ground Floor, Mookathal Street, Bishop Lane Entrance, Purasawalkam",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600007",
+    "country": "India",
+    "phone": [
+      "+91 89250 01365",
+      "+91 94440 81373"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.090592928794802, 
+    "longitude": 80.2570378057174
+  },
+  {
+    "id": 24,
+    "name": "Ramapuram",
+    "type": "Raja Yoga Centre",
+    "address": "House No: 1/18, Naidu Street, Near S.A. Kalyana Mandapam, Ramapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600089",
+    "country": "India",
+    "phone": [
+      "+91 97890 90588"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.036189511992447, 
+    "longitude": 80.17433830682765
+  },
+  {
+    "id": 25,
+    "name": "Royapettah",
+    "type": "Raja Yoga Centre",
+    "address": "H No: 199/112, B- Flat, CPK's Selvam, Avvai Shanmugam Salai, Royapettah",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600005",
+    "country": "India",
+    "phone": [
+      "+91 90572 31117",
+      "+91 97909 56505",
+      "+91 44 28117788"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.053574010409777, 
+    "longitude": 80.26211753950292
+  },
+  {
+    "id": 26,
+    "name": "Royapuram",
+    "type": "Raja Yoga Centre",
+    "address": "New No: 33/1, Old No:16/1, First Floor, West Madha Church Street, Near HP Petrol Bunk, Royapuram",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600013",
+    "country": "India",
+    "phone": [
+      "+91 95141 49768",
+      "+91 89390 90753",
+      "+91 44 43183602"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.11766776733842, 
+    "longitude": 80.29462726858979
+  },
+  {
+    "id": 27,
+    "name": "Sholinganallur",
+    "type": "Raja Yoga Centre",
+    "address": "Old No: 26, New No: 35, Annai Indira Street, Parameshwara Nagar, 2nd Street, Sholinganallur",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600119",
+    "country": "India",
+    "phone": [
+      "+91 95972 01933",
+      "+91 91769 22981"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.898491119224238, 
+    "longitude":80.22778756692436
+  },
+  {
+    "id": 28,
+    "name": "Sriperumbudur",
+    "type": "Raja Yoga Centre",
+    "address": "No: 1, Temple Of Meditation, Govardhan Nagar, Behind Rajiv Gandhi Memorial, Bengaluru Bypass Road, Sriperumbudur",
+    "city": "Sriperumbudur",
+    "district": "Kanchipuram",
+    "state": "Tamil Nadu",
+    "pincode": "602105",
+    "country": "India",
+    "phone": [
+      "+91 94450 03291",
+      "+91 94450 22006",
+      "+91 44 27107009"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.968252245161395, 
+    "longitude": 79.94805230900684
+  },
+  {
+    "id": 29,
+    "name": "T.Nagar",
+    "type": "Raja Yoga Centre",
+    "address": "H.no:13, Flat No: 3, Majestic Apartment, Soundarajan Street, Near TTD Temple, T.Nagar",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600017",
+    "country": "India",
+    "phone": [
+      "+91 97910 92461",
+      "+91 99410 04711"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.03970506315604, 
+    "longitude": 80.23518069665266
+  },
+  {
+    "id": 30,
+    "name": "Tambaram East",
+    "type": "Raja Yoga Centre",
+    "address": "H No: 203, Chitlapakkam Main Road, Near Post Office, Ganesh Nagar, Selaiyur, Tambaram East",
+    "city": "Chennai",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "600073",
+    "country": "India",
+    "phone": [
+      "+91 94450 03292"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.93173628639608, 
+    "longitude": 80.1472465816087
+  },
+  {
+    "id": 31,
+    "name": "Thiruvanmiyur",
+    "type": "Raja Yoga Centre",
+    "address": "Flat No: A2, H No:164, Thrimurthi Bhawan, Ganapathy 2nd Street, Makil Retail, Thiruvanmiyur",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600041",
+    "country": "India",
+    "phone": [
+      "+91 95000 49418"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.984113566576516, 
+    "longitude": 80.2555761577392
+  },
+  {
+    "id": 32,
+    "name": "Tiruvallur",
+    "type": "Raja Yoga Centre",
+    "address": "D.no: 55, NGGO Colony, Opp NGGO Vinayagar Temple, Tiruvallur",
+    "city": "Tiruvallur",
+    "district": "Tiruvallur",
+    "state": "Tamil Nadu",
+    "pincode": "602001",
+    "country": "India",
+    "phone": [
+      "+91 97891 34212",
+      "+91 96005 57094"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 13.136932542664512, 
+    "longitude": 79.92048684071555
+  },
+  {
+    "id": 33,
+    "name": "Vaikundh Peace Garden",
+    "type": "Raja Yoga Retreat Centre",
+    "address": "S No: 49/1,2A,2B,2C, 42/6A, Vaikundh Peace Garden, Sirudhavur Alathur Link Road, Opp: Alathur Lake, Tal: Thiruporur",
+    "city": "Chennai",
+    "district": "Chengalpattu",
+    "state": "Tamil Nadu",
+    "pincode": "603105",
+    "country": "India",
+    "phone": [
+      "+91 98401 57158",
+      "+91 81222 88122"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.693472914028058, 
+    "longitude": 80.16405850834342
+  },
+  {
+    "id": 34,
+    "name": "Velachery",
+    "type": "Raja Yoga Centre",
+    "address": "3/7, Shakti Bhawan, 12th Street, Tansi Nagar, Velachery",
+    "city": "Chennai",
+    "district": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600042",
+    "country": "India",
+    "phone": [
+      "+91 98406 96100",
+      "+91 44 42022004"
+    ],
+    "email": "",
+    "website": "",
+    "latitude": 12.982596885670862, 
+    "longitude": 80.22474958846114
+  }
+]
