@@ -1,8 +1,8 @@
 [
   {
-    "name": "Gottigere (HQ)",
+    "name": "Gottigere (Head Quarters)",
     "address": "Rajyoga Bhawan, Banner Ghatta Road, Gottigere, Dadda Kammanahalli, Bengaluru, 560083, Karnataka, India",
-    "phone": "09880312637",
+    "phone": [],
     "email": "gottigere.blr@bkivv.org",
     "latitude": 12.8593908,
     "longitude": 77.5956011,
@@ -11,7 +11,10 @@
   {
     "name": "Abbigere",
     "address": "Bhagya Vidata Bhawan, Site No: 20, 1 Main Road, Devi Electrical Road, Opp Hp Petrol Bunk, Abbigere, Bengaluru, 560090, Karnataka, India",
-    "phone": "8073725716, 7760756718",
+    "phone": [
+      "+91 80737 25716",
+      "+91 77607 56718"
+    ],
     "email": "abbigere.blr@bkivv.org",
     "latitude": 13.073295,
     "longitude": 77.524497,
@@ -20,7 +23,9 @@
   {
     "name": "Adugodi",
     "address": "H No: 61/4, Nanjappa Layout, Laskar Hosur Road, 1st Main Road, Adugodi, Bengaluru, 560030, Karnataka, India",
-    "phone": "7338028116",
+    "phone": [
+      "+91 73380 28116"
+    ],
     "email": "",
     "latitude": 12.943585,
     "longitude": 77.607266,
@@ -29,7 +34,10 @@
   {
     "name": "Agara",
     "address": "Bldg No: 450, D.No:1, 1st Floor, Sector-1, 10th Cross, 28th Main Road, Beside Pattalamma Temple, Hsr Layout, Bengaluru, 560102, Karnataka, India",
-    "phone": "080-22580030, 9901462602",
+    "phone": [
+      "+91 80 2258 0030",
+      "+91 99014 62602"
+    ],
     "email": "agara.blr@bkivv.org",
     "latitude": 12.9178067,
     "longitude": 77.6520984,
@@ -38,7 +46,9 @@
   {
     "name": "Alibommasandra",
     "address": "H No: 102, Near Bus Stop, Tal: Anekal, Alibommasandra, Bengaluru, 560099, Karnataka, India",
-    "phone": "9945601289",
+    "phone": [
+      "+91 99456 01289"
+    ],
     "email": "",
     "latitude": 12.819537,
     "longitude": 77.736646,
@@ -47,7 +57,9 @@
   {
     "name": "Ananth Nagar",
     "address": "Survey No: 6607/139/1, Akhanda Jyoti Bhawan, Attibele Hobli, Kammasandra, Glass Factory Layout, Ananth Nagar, Tal: Anekal, Bengaluru, 560100, Karnataka, India",
-    "phone": "9164053018",
+    "phone": [
+      "+91 91640 53018"
+    ],
     "email": "ananthanagar.blr@bkivv.org",
     "latitude": 12.83139,
     "longitude": 77.69147,
@@ -56,7 +68,11 @@
   {
     "name": "Anekal",
     "address": "'shiv Sandesha Bhawan', H.No:423, Sharadamma Layout, Near Court, Attibele Road, Anekal, 562106, Karnataka, India",
-    "phone": "080-27859666, 9845895552, 9482735697",
+    "phone": [
+      "+91 80 2785 9666",
+      "+91 98458 95552",
+      "+91 94827 35697"
+    ],
     "email": "anekal@bkivv.org",
     "latitude": 12.7131105,
     "longitude": 77.7032792,
@@ -65,7 +81,10 @@
   {
     "name": "Annapurneshwari Nagar",
     "address": "No-13, Health Layout Iind Phase, Srigandada Kaval, Brahmakumaris Road, Near Vidya Vahini School, Bengaluru, 560091, Karnataka, India",
-    "phone": "9743363463, 8618263064",
+    "phone": [
+      "+91 97433 63463",
+      "+91 86182 63064"
+    ],
     "email": "",
     "latitude": 12.9754008,
     "longitude": 77.5019064,
@@ -74,7 +93,10 @@
   {
     "name": "Arekere",
     "address": "Tirumala Windsor Madhavi Ff1, 5th Cross, Vijaya Bank Layout, Near Ayyappa Temple, Bilekahalli Post, Arekere, Bengaluru, 560076, Karnataka, India",
-    "phone": "8762894718, 9535206755",
+    "phone": [
+      "+91 87628 94718",
+      "+91 95352 06755"
+    ],
     "email": "arekere.blr@bkivv.org",
     "latitude": 12.891128,
     "longitude": 77.607096,
@@ -83,7 +105,9 @@
   {
     "name": "Attibele",
     "address": "Plot No: 779/10, Near Sbi, Sadashiva Nagar, Ashwathappa Layout, Anekal Road, Attibele, 562107, Karnataka, India",
-    "phone": "6363200739",
+    "phone": [
+      "+91 63632 00739"
+    ],
     "email": "attibele@bkivv.org",
     "latitude": 12.777558,
     "longitude": 77.768321,
@@ -92,7 +116,10 @@
   {
     "name": "B.Narayana Pura",
     "address": "H No: 23, Flat No:303, Neni's Sowmya Nest, Second Right, 5th Cross, Saptagiri Layout, B.Narayanapura, Bengaluru, 560016, Karnataka, India",
-    "phone": "8553351102, 8660027525",
+    "phone": [
+      "+91 85533 51102",
+      "+91 86600 27525"
+    ],
     "email": "bnarayanpura.blr@bkivv.org",
     "latitude": 12.990126,
     "longitude": 77.681161,
@@ -101,7 +128,10 @@
   {
     "name": "B.T.M. Layout",
     "address": "65, 1st & 2nd Floor, 20th Main Road, 6th A Cross, 1st Stage, Btm Lay Out, Old Madiwal, Aicobo Nagar, Bengaluru, 560029, Karnataka, India",
-    "phone": "9483986793, 8553618220",
+    "phone": [
+      "+91 94839 86793",
+      "+91 85536 18220"
+    ],
     "email": "btmlayout.blr@bkivv.org",
     "latitude": 12.919173,
     "longitude": 77.612362,
@@ -110,7 +140,10 @@
   {
     "name": "Balaji Nagar",
     "address": "H Ho: 04, Shiva Darshan Bhawan, 12th Cross, Thigalarapalya, Peenya 2nd Stage, Near Exam Centre, Balaji Nagar, Bengaluru, 560058, Karnataka, India",
-    "phone": "9740781235, 8095011290",
+    "phone": [
+      "+91 97407 81235",
+      "+91 80950 11290"
+    ],
     "email": "",
     "latitude": 13.01369,
     "longitude": 77.49224,
@@ -119,7 +152,9 @@
   {
     "name": "Banashankari Katriguppe",
     "address": "House No: 57, 2nd Main, Siddhartha Extension, Near 43a Bus Stop, Katreguppe, 3rd Stage, Banashankari, Bengaluru, 560085, Karnataka, India",
-    "phone": "8919363674",
+    "phone": [
+      "+91 89193 63674"
+    ],
     "email": "banashankari.blr@bkivv.org",
     "latitude": 12.93036,
     "longitude": 77.55458,
@@ -128,7 +163,9 @@
   {
     "name": "Bannerghatta",
     "address": "H.No: 27, 1st Floor, Post Office Road, Bannerghatta Cross, Tal: Anekal, Bengaluru, 560083, Karnataka, India",
-    "phone": "9972906119",
+    "phone": [
+      "+91 99729 06119"
+    ],
     "email": "",
     "latitude": 12.8131244,
     "longitude": 77.580209,
@@ -137,7 +174,9 @@
   {
     "name": "Basavanagar",
     "address": "H No: 105, 1st Floor, Vibhuthi Residency, Annasandrapalya Main Road, Nr. Iti Institute, Vibhuthipuram Extension, Ramesh Nagar, Bengaluru, 560037, Karnataka, India",
-    "phone": "9900860100",
+    "phone": [
+      "+91 99008 60100"
+    ],
     "email": "",
     "latitude": 12.96483,
     "longitude": 77.67957,
@@ -146,7 +185,10 @@
   {
     "name": "Basavanagudi",
     "address": "'vardani Bhawan' 2/1, Reservoir Street, Basavanagudi, South Cross Road, Bengaluru, 560004, Karnataka, India",
-    "phone": "080-26674562, 9880312638",
+    "phone": [
+      "+91 80 2667 4562",
+      "+91 98803 12638"
+    ],
     "email": "basavanagudi.blr@bkivv.org",
     "latitude": 12.9390135,
     "longitude": 77.5758413,
@@ -155,7 +197,11 @@
   {
     "name": "Basaveshwaranagar",
     "address": "H.No: 893, 8th A Main Road, 3rd Block, 3rd Stage, Basaveshwaranagar, Bengaluru, 560079, Karnataka, India",
-    "phone": "080- 35911736, 9343718086, 7829925658",
+    "phone": [
+      "+91 80 3591 1736",
+      "+91 93437 18086",
+      "+91 78299 25658"
+    ],
     "email": "basaveshwaranagar.blr@bkivv.org",
     "latitude": 12.99142,
     "longitude": 77.5418,
@@ -164,7 +210,9 @@
   {
     "name": "Begur",
     "address": "Trimurthi Nilaya, H.No: 864, Mutt Road, Begur, Bengaluru, 560114, Karnataka, India",
-    "phone": "9480181439",
+    "phone": [
+      "+91 94801 81439"
+    ],
     "email": "begur.blr@bkivv.org",
     "latitude": 12.8760827,
     "longitude": 77.6255591,
@@ -173,7 +221,9 @@
   {
     "name": "Bel",
     "address": "H.No: B-16, B.E.L.Colony Circle, 1st Cross, Jalahalli, Bengaluru, 560013, Karnataka, India",
-    "phone": "7795865781",
+    "phone": [
+      "+91 77958 65781"
+    ],
     "email": "bel.blr@bkivv.org",
     "latitude": 13.0449935,
     "longitude": 77.555018,
@@ -182,7 +232,9 @@
   {
     "name": "Bellanduru",
     "address": "H No: 133, 1st Floor, Prakash Bhawan, 9th Cross Road, Bellanduru, Bengaluru, 560103, Karnataka, India",
-    "phone": "9482455718",
+    "phone": [
+      "+91 94824 55718"
+    ],
     "email": "",
     "latitude": 12.929452,
     "longitude": 77.677419,
@@ -191,7 +243,9 @@
   {
     "name": "Beml Layout",
     "address": "H No: 481, Baba's Divine House, 1st Main Road, B Block, Near Ganesha Temple, Aecs Layout, Bengaluru, 560066, Karnataka, India",
-    "phone": "9986440297",
+    "phone": [
+      "+91 99864 40297"
+    ],
     "email": "bemllayout.blr@bkivv.org",
     "latitude": 12.964893,
     "longitude": 77.714328,
@@ -200,7 +254,12 @@
   {
     "name": "Bengaluru Fort (city)",
     "address": "18, Fort 'd' Street, Opp. Bangalore Medical College, Albert Victor Road Cross, Bengaluru, 560002, Karnataka, India",
-    "phone": "080-26701863, 65304507, 8971145515, 9972824302",
+    "phone": [
+      "+91 80 2670 1863",
+      "+91 80 6530 4507",
+      "+91 89711 45515",
+      "+91 99728 24302"
+    ],
     "email": "city.blr@bkivv.org",
     "latitude": 12.9602395,
     "longitude": 77.5751592,
@@ -209,7 +268,9 @@
   {
     "name": "Byatarayanapura",
     "address": "H.No: 5/37, Nanjahanuma Nilaya, 1st Cross, 2nd Main Road, Byatarayanpura, Bengaluru, 560026, Karnataka, India",
-    "phone": "9008749013",
+    "phone": [
+      "+91 90087 49013"
+    ],
     "email": "byatarayanapura.blr@bkivv.org",
     "latitude": 12.95023,
     "longitude": 77.54215,
@@ -218,7 +279,9 @@
   {
     "name": "C.V.Raman Nagar",
     "address": "H.No: 107/26, Marappa Building, 5th Main, 4th Cross, Sudda Gunta Palya, Opp: Food City Shoping Centre, C.V.Raman Nagar, Bengaluru, 560093, Karnataka, India",
-    "phone": "9535132757",
+    "phone": [
+      "+91 95351 32757"
+    ],
     "email": "",
     "latitude": 12.9824993,
     "longitude": 77.6568907,
@@ -227,7 +290,10 @@
   {
     "name": "Chamrajpet",
     "address": "Rajyoga Training Centre, Prakash Bhawan, No.77& 78, 2nd Main, 7th Cross, Edga Maidan Rd, Near Malai Mahadeswar Temple, Chamrajpet, Bengaluru, 560001, Karnataka, India",
-    "phone": "080-26603355, 7975738484",
+    "phone": [
+      "+91 80 2660 3355",
+      "+91 79757 38484"
+    ],
     "email": "chamrajpet.blr@bkivv.org",
     "latitude": 12.9592558,
     "longitude": 77.5626852,
@@ -236,7 +302,9 @@
   {
     "name": "Chandapura",
     "address": "Vishnu Nivas, 1st Cross, 2nd Sub Cross, Venkateswara Layout, Ward No:18, Chandapura, Tal: Anekal, Chandapura, 560099, Karnataka, India",
-    "phone": "9964333233",
+    "phone": [
+      "+91 99643 33233"
+    ],
     "email": "",
     "latitude": 12.797382,
     "longitude": 77.707413,
@@ -245,7 +313,9 @@
   {
     "name": "Channasandra",
     "address": "Site No:32, Ist Floor, Prithvi Layout, Channasandra, Kadugudi, Bengaluru, 560067, Karnataka, India",
-    "phone": "9986440297",
+    "phone": [
+      "+91 99864 40297"
+    ],
     "email": "",
     "latitude": 12.979943,
     "longitude": 77.771508,
@@ -254,7 +324,9 @@
   {
     "name": "Chikkabidarakallu",
     "address": "H No: 4/3, Basweshwar Nilaya, 1st Main Road, Opp: Post Office, Chikkabidarakallu, Bengaluru, 560073, Karnataka, India",
-    "phone": "9108740270",
+    "phone": [
+      "+91 91087 40270"
+    ],
     "email": "",
     "latitude": 13.048173,
     "longitude": 77.4864,
@@ -263,7 +335,10 @@
   {
     "name": "Chikkajala",
     "address": "H No: 03, M.R.F. Tyre Show Room, Near Harsha Floor Mill, Jala Hobli, Bengaluru, 562157, Karnataka, India",
-    "phone": "9241738963, 8861717417",
+    "phone": [
+      "+91 92417 38963",
+      "+91 88617 17417"
+    ],
     "email": "",
     "latitude": 13.17249,
     "longitude": 77.636514,
@@ -272,7 +347,10 @@
   {
     "name": "Chinnayanpalya",
     "address": "H No: 378/a, (new No:125), 15th Cross, 6th Main, Near Holy Crescent Eng.School, Lakkasandra Extension, Chinnayanpalya, Bengaluru, 560030, Karnataka, India",
-    "phone": "080-22122188, 9900605212",
+    "phone": [
+      "+91 80 2212 2188",
+      "+91 99006 05212"
+    ],
     "email": "",
     "latitude": 12.9471056,
     "longitude": 77.6004052,
@@ -281,7 +359,9 @@
   {
     "name": "Cholourpalya",
     "address": "H.No:63, First Floor, Anand Nilaya, 2nd Cross, Near Shiva Medicals, Cholourpalya, Magadi Road, Bengaluru, 560023, Karnataka, India",
-    "phone": "9019486688",
+    "phone": [
+      "+91 90194 86688"
+    ],
     "email": "cholourpalya.blr@bkivv.org",
     "latitude": 12.971424,
     "longitude": 77.551471,
@@ -290,7 +370,10 @@
   {
     "name": "Cottonpet",
     "address": "H No: 49, Second Floor, Dr. Tcm Royan Road, Near Binni Mill Circle, Cottonpet, Bengaluru, 560053, Karnataka, India",
-    "phone": "8618263064, 9019194658",
+    "phone": [
+      "+91 86182 63064",
+      "+91 90191 94658"
+    ],
     "email": "akkipet.blr@bkivv.org",
     "latitude": 12.969788,
     "longitude": 77.568163,
@@ -299,7 +382,10 @@
   {
     "name": "Devarachikkanahalli",
     "address": "H No: 7, Opp: Raghvendra Mutt, Vishweshwaraiah Layout,  2nd Cross Road, 1st Main Road, Devarachikkanahalli, Bengaluru, 560076, Karnataka, India",
-    "phone": "9902433831, 9535208755",
+    "phone": [
+      "+91 99024 33831",
+      "+91 95352 08755"
+    ],
     "email": "",
     "latitude": 12.889334,
     "longitude": 77.612442,
@@ -308,7 +394,9 @@
   {
     "name": "Dodda Banaswadi",
     "address": "H.No: 101, 3rd Cross, Anjaneya Temple Street, Dodda Banaswadi, Bengaluru, 560043, Karnataka, India",
-    "phone": "9686730572",
+    "phone": [
+      "+91 96867 30572"
+    ],
     "email": "",
     "latitude": 13.0140627,
     "longitude": 77.6521918,
@@ -317,7 +405,10 @@
   {
     "name": "Doddagubbi",
     "address": "H No: 240, Anjanadri Nilaya, Opp: Karnataka Bank Ltd, Doddagubbi, Bengaluru, 560077, Karnataka, India",
-    "phone": "9740059407, 7975957190",
+    "phone": [
+      "+91 97400 59407",
+      "+91 79759 57190"
+    ],
     "email": "",
     "latitude": 13.070925,
     "longitude": 77.671912,
@@ -326,7 +417,9 @@
   {
     "name": "Domlur",
     "address": "H.No:b2-140, Bda Flats, 1st Floor, 2nd Block, Professor Ur Rao Road, 2nd Phase, Domlur, Bengaluru, 560071, Karnataka, India",
-    "phone": "9916795103",
+    "phone": [
+      "+91 99167 95103"
+    ],
     "email": "domlur.blr@bkivv.org",
     "latitude": 12.96422,
     "longitude": 77.635829,
@@ -335,7 +428,9 @@
   {
     "name": "Dommasandra",
     "address": "H No: 147, Shiva Shakti Bhawan, Near Telephone Exchange, Sajjapur Road, Dommasandra Circle, Teh: Anekal, Dommasandra, 562125, Karnataka, India",
-    "phone": "9845537029",
+    "phone": [
+      "+91 98455 37029"
+    ],
     "email": "dommasandra@bkivv.org",
     "latitude": 12.8820971,
     "longitude": 77.7525066,
@@ -344,7 +439,9 @@
   {
     "name": "Electronics City",
     "address": "H.No: 1167, Rama Reddy Building, Govinda Shetty Palya Road, Near Dairy, Electronics City 2nd Phase, Bengaluru, 560100, Karnataka, India",
-    "phone": "9347674933",
+    "phone": [
+      "+91 93476 74933"
+    ],
     "email": "ecity.blr@bkivv.org",
     "latitude": 12.8511742,
     "longitude": 77.6716601,
@@ -353,7 +450,11 @@
   {
     "name": "Ganganagar",
     "address": "H.No: 126 (new No: 4), 1st A Main, Ganganagar Extention, Bengaluru, 560032, Karnataka, India",
-    "phone": "080- 23534500, 7019106066, 9880614590",
+    "phone": [
+      "+91 80 2353 4500",
+      "+91 70191 06066",
+      "+91 98806 14590"
+    ],
     "email": "ganganagar.blr@bkivv.org",
     "latitude": 13.020398,
     "longitude": 77.5872664,
@@ -362,7 +463,10 @@
   {
     "name": "Gangondanahalli",
     "address": "H No: 620, 1st Floor, , Lakshmipura Circle, Shanti Nagar, Gangondanahalli Main Road, Bengaluru, 560073, Karnataka, India",
-    "phone": "8970177613, 8105167092",
+    "phone": [
+      "+91 89701 77613",
+      "+91 81051 67092"
+    ],
     "email": "",
     "latitude": 13.026233,
     "longitude": 77.474115,
@@ -371,7 +475,9 @@
   {
     "name": "Garudacharpalya",
     "address": "Survey No: 82, Mtb Yogakendra, Near Govt. Lower Primary School, Garudacharpalya, Mahadevapura, Bengaluru, 560048, Karnataka, India",
-    "phone": "9739949459",
+    "phone": [
+      "+91 97399 49459"
+    ],
     "email": "",
     "latitude": 12.989765,
     "longitude": 77.700047,
@@ -380,7 +486,9 @@
   {
     "name": "Garve Bhavi Palya",
     "address": "Door No: 57/2, Papanna Building, 2nd Floor, Above Jenusri Medicals, 1st Main Road, Garve Bhavi Palya, Bangaluru, Bengaluru, 560068, Karnataka, India",
-    "phone": "8453796127",
+    "phone": [
+      "+91 84537 96127"
+    ],
     "email": "garvebhavipalya.blr@bkivv.org",
     "latitude": 12.893943,
     "longitude": 77.635207,
@@ -389,7 +497,9 @@
   {
     "name": "Gaurav Nagar",
     "address": "H.No:53, 1st Floor, 2nd Cross, R.B.I. Layout, Kothnur Main Road, Gaurav Nagar, 7th Phase, J.P.Nagar, Bengaluru, 560078, Karnataka, India",
-    "phone": "9611438145",
+    "phone": [
+      "+91 96114 38145"
+    ],
     "email": "gauravnagar.blr@bkivv.org",
     "latitude": 12.8856705,
     "longitude": 77.581919,
@@ -398,7 +508,10 @@
   {
     "name": "Gayatrinagar",
     "address": "H.No: 3488, 6th Cross, Gayatrinagar, Bengaluru, 560021, Karnataka, India",
-    "phone": "080- 23320143, 9945480489",
+    "phone": [
+      "+91 80 2332 0143",
+      "+91 99454 80489"
+    ],
     "email": "gayatrinagar.blr@bkivv.org",
     "latitude": 12.9998783,
     "longitude": 77.5596083,
@@ -407,7 +520,10 @@
   {
     "name": "Geleyara Balaga",
     "address": "H No: 4, 15th Cross, 1st Main Road, Mahalakshmi Layout, Muneshwara Block, Geleyara Balaga, Bengaluru, 560086, Karnataka, India",
-    "phone": "9353835578, 9481554088",
+    "phone": [
+      "+91 93538 35578",
+      "+91 94815 54088"
+    ],
     "email": "gbalaga.blr@bkivv.org",
     "latitude": 13.007289,
     "longitude": 77.542773,
@@ -416,7 +532,11 @@
   {
     "name": "Girinagar",
     "address": "H.No: 462, 10th Cross, 80 Feet Road, Girinagar 2nd Stage, Bengaluru, 560085, Karnataka, India",
-    "phone": "8762005971, 9343992322, 7349528071",
+    "phone": [
+      "+91 87620 05971",
+      "+91 93439 92322",
+      "+91 73495 28071"
+    ],
     "email": "girinagar.blr@bkivv.org",
     "latitude": 12.941103,
     "longitude": 77.541673,
@@ -425,7 +545,11 @@
   {
     "name": "Gundappa Layout",
     "address": "H No:68, 3rd Cross, Gundappa Layout, Gottigere Village, Bengaluru, 560083, Karnataka, India",
-    "phone": "080- 22908878, 8088091188, 8310057483",
+    "phone": [
+      "+91 80 2290 8878",
+      "+91 80880 91188",
+      "+91 83100 57483"
+    ],
     "email": "",
     "latitude": 12.856177,
     "longitude": 77.5861196,
@@ -434,7 +558,9 @@
   {
     "name": "H.A.L",
     "address": "H.No: 2301, Om Shanti Bhawan, 1st Cross, 2nd Main, Bda Layout, Hal 3rd Stage, Murgesh Palya, Bengaluru, 560017, Karnataka, India",
-    "phone": "9448975680",
+    "phone": [
+      "+91 94489 75680"
+    ],
     "email": "hal.blr@bkivv.org",
     "latitude": 12.96276,
     "longitude": 77.65876,
@@ -443,7 +569,9 @@
   {
     "name": "Halasuru",
     "address": "'vishwa Parivarthak Bhavan', H No:new 57,, Old 11/4-1, 1st Cross, Near Police Station, , Cambridge Road, Jogupalya,  Halasuru, Bengaluru, 560008, Karnataka, India",
-    "phone": "9113865331",
+    "phone": [
+      "+91 91138 65331"
+    ],
     "email": "halasuru.blr@bkivv.org",
     "latitude": 12.9730487,
     "longitude": 77.6271908,
@@ -452,7 +580,9 @@
   {
     "name": "Halsurpete",
     "address": "Sangam Thirtha Bhawan, H.No: 1103/1, O.T.C. Road, Bengaluru, 560002, Karnataka, India",
-    "phone": "9739773230",
+    "phone": [
+      "+91 97397 73230"
+    ],
     "email": "",
     "latitude": 12.9659718,
     "longitude": 77.5852965,
@@ -461,7 +591,10 @@
   {
     "name": "Hampinagar",
     "address": "H.No.239, '5' C Main Road, Remco Layout, Hampinagar, Vijaynagara, 2nd Stage, Bengaluru, 560104, Karnataka, India",
-    "phone": "080-23146841, 9686076891",
+    "phone": [
+      "+91 80 2314 6841",
+      "+91 96860 76891"
+    ],
     "email": "",
     "latitude": 12.9638172,
     "longitude": 77.5365246,
@@ -470,7 +603,9 @@
   {
     "name": "Hebbal",
     "address": "H.No: 4, Vishwa Shanti Bhawan, Cholanayakanahalli Main Road, Po: R.T.Nagar, Hebbal, Bengaluru, 560032, Karnataka, India",
-    "phone": "9980888733",
+    "phone": [
+      "+91 99808 88733"
+    ],
     "email": "hebbal.blr@bkivv.org",
     "latitude": 13.037546,
     "longitude": 77.596677,
@@ -479,7 +614,9 @@
   {
     "name": "Hennagara",
     "address": "H.No 41, Vishwa Shanti Bhawan, Cosmos Mayflower Gardenia Layout, Opp Hennagara Panchayat, Tal: Anekal, Hennagara, 560105, Karnataka, India",
-    "phone": "9964333233",
+    "phone": [
+      "+91 99643 33233"
+    ],
     "email": "hennagara@bkivv.org",
     "latitude": 12.789362,
     "longitude": 77.675189,
@@ -488,7 +625,9 @@
   {
     "name": "Heritage County",
     "address": "Villa No: A1, Meditation Centre, Heritage County, Hobli: Sarjapura, Post: Thindlu, Tal: Anekal, Bengaluru, 562125, Karnataka, India",
-    "phone": "9414092507",
+    "phone": [
+      "+91 94140 92507"
+    ],
     "email": "",
     "latitude": 12.863933,
     "longitude": 77.802761,
@@ -497,7 +636,9 @@
   {
     "name": "Hesaraghatta",
     "address": "Shanubhog Nanjundai Building, Behind Bmtc Bus Stand, Hesaraghatta, Tal: Bengaluru North, Bengaluru, 560088, Karnataka, India",
-    "phone": "8197309177",
+    "phone": [
+      "+91 81973 09177"
+    ],
     "email": "",
     "latitude": 13.137102,
     "longitude": 77.479302,
@@ -506,7 +647,10 @@
   {
     "name": "Hosakerehalli",
     "address": "H.No: 166/1, 3rd Cross, Hrishikesh Nagar, B.S.K. 3rd Stage, Hosakerehalli, Bengaluru, 560085, Karnataka, India",
-    "phone": "9945615288, 9739664501",
+    "phone": [
+      "+91 99456 15288",
+      "+91 97396 64501"
+    ],
     "email": "hosakerehalli.blr@bkivv.org",
     "latitude": 12.9279681,
     "longitude": 77.535323,
@@ -515,7 +659,9 @@
   {
     "name": "Hulimavu",
     "address": "H.No: 383/7, Divya Darshana, 24th Cross Road, Kempamma Layout, Near Kempamma Devi Temple, Hulimavu, Bengaluru, 560076, Karnataka, India",
-    "phone": "8904812891",
+    "phone": [
+      "+91 89048 12891"
+    ],
     "email": "hulimavu.blr@bkivv.org",
     "latitude": 12.880085,
     "longitude": 77.604516,
@@ -524,7 +670,10 @@
   {
     "name": "I.S.R.O Layout",
     "address": "H No: 41, Shiva Dham, 6th Main Road, Bikasipura, Insight Academy School Road, I.S.R.O Layout, Bengaluru, 560111, Karnataka, India",
-    "phone": "7022093440, 7892411106",
+    "phone": [
+      "+91 70220 93440",
+      "+91 78924 11106"
+    ],
     "email": "isrolayout.blr@bkivv.org",
     "latitude": 12.894532,
     "longitude": 77.560003,
@@ -533,7 +682,9 @@
   {
     "name": "Indiranagar Ishwara Layout",
     "address": "892, 4th Floor, 14th A Cross Road, Eshwara Layout, 2nd Stage, Indiranagar, Bengaluru, 560038, Karnataka, India",
-    "phone": "9113699337",
+    "phone": [
+      "+91 91136 99337"
+    ],
     "email": "",
     "latitude": 12.974818,
     "longitude": 77.634939,
@@ -542,7 +693,10 @@
   {
     "name": "Indiranagar New Thippasandra",
     "address": "H No: 1882, 7th Cross, 4th Main Road, Near Hal 3rd Stage, Indira Nagar, New Thippasandra, Bengaluru, 560075, Karnataka, India",
-    "phone": "080- 25297438, 8073355625",
+    "phone": [
+      "+91 80 2529 7438",
+      "+91 80733 55625"
+    ],
     "email": "indiranagar.blr@bkivv.org",
     "latitude": 12.971811,
     "longitude": 77.651903,
@@ -551,7 +705,9 @@
   {
     "name": "J.C. Nagar",
     "address": "H.No:51/3, Ankappa Block, J. C. Nagar Road, Bengaluru, 560006, Karnataka, India",
-    "phone": "8660231652",
+    "phone": [
+      "+91 86602 31652"
+    ],
     "email": "jcnagar.blr@bkivv.org",
     "latitude": 13.0108616,
     "longitude": 77.5950115,
@@ -560,7 +716,10 @@
   {
     "name": "J.P.Nagar 5th Phase",
     "address": "H No: 4, Vijaya Bhawan, 17th A Cross, 13th Main, 5th Phase, Brahmakumaris Road J.P.Nagar, Bengaluru, 560078, Karnataka, India",
-    "phone": "080- 26593682, 9900745367",
+    "phone": [
+      "+91 80 2659 3682",
+      "+91 99007 45367"
+    ],
     "email": "jpnagar.blr@bkivv.org",
     "latitude": 12.905212,
     "longitude": 77.5926108,
@@ -569,7 +728,9 @@
   {
     "name": "J.P.Nagar 6th Phase",
     "address": "H.No:230, 17th Cross, 31st Main, 6th Phase, Near Siddalingeshwara Talkies, J.P.Nagar, Bengaluru, 560078, Karnataka, India",
-    "phone": "8971800438",
+    "phone": [
+      "+91 89718 00438"
+    ],
     "email": "",
     "latitude": 12.904345,
     "longitude": 77.580769,
@@ -578,7 +739,10 @@
   {
     "name": "Jakkasandra",
     "address": "House No: 53, 7th Cross, Ist Main, 1st Block, It Back Gate, Jakkasandra, Koramangala, Bengaluru, 560034, Karnataka, India",
-    "phone": "8618146654, 8722338599",
+    "phone": [
+      "+91 86181 46654",
+      "+91 87223 38599"
+    ],
     "email": "jakkasandra.blr@bkivv.org",
     "latitude": 12.92246,
     "longitude": 77.63692,
@@ -587,7 +751,11 @@
   {
     "name": "Jakkur",
     "address": "Shiva Sundara Pavitra Vana, H.No: 1017/104, Opp: Road Of G.K.V.K. (new Airport Road), Jakkur Extension, Bengaluru North, Bengaluru, 560064, Karnataka, India",
-    "phone": "080- 64508953, 8618672188, 9441994443",
+    "phone": [
+      "+91 80 6450 8953",
+      "+91 86186 72188",
+      "+91 94419 94443"
+    ],
     "email": "jakkur.blr@bkivv.org",
     "latitude": 13.0766616,
     "longitude": 77.6021872,
@@ -596,7 +764,10 @@
   {
     "name": "Jalahalli Village",
     "address": "H No: 37, Sri Vishnu Nilaya, Ist Floor, 8th Cross, Behind Raghavendra Swamy Mut, Sharadamba Nagar, Jalahalli Village, Bengaluru, 560013, Karnataka, India",
-    "phone": "9743743439, 8310496327",
+    "phone": [
+      "+91 97437 43439",
+      "+91 83104 96327"
+    ],
     "email": "",
     "latitude": 13.045776,
     "longitude": 77.544326,
@@ -605,7 +776,10 @@
   {
     "name": "Jayanagar 4th T Block",
     "address": "House No: 1224, 34th Cross, 28th Main, 4th T Block, Jayanagar, Bengaluru, 560041, Karnataka, India",
-    "phone": "080- 26630844, 9900937668",
+    "phone": [
+      "+91 80 2663 0844",
+      "+91 99009 37668"
+    ],
     "email": "jayanagar4thblock.blr@bkivv.org",
     "latitude": 12.925495,
     "longitude": 77.596009,
@@ -614,7 +788,10 @@
   {
     "name": "Jayanagar 5th Block",
     "address": "Sadbhavana Bhawan, H.No: 219, 39th A Cross, 9th Main, 5th Block, Jayanagar, Bengaluru, 560041, Karnataka, India",
-    "phone": "080-26638188, 9241653033",
+    "phone": [
+      "+91 80 2663 8188",
+      "+91 92416 53033"
+    ],
     "email": "jayanagar5thblock.blr@bkivv.org",
     "latitude": 12.9210449,
     "longitude": 77.583424,
@@ -623,7 +800,10 @@
   {
     "name": "Jayanagar 9th Block",
     "address": "H No: 2072/6, East End A Main, Near Royal Enfield Show Room, Jayanagar 9th Block, Bengaluru, 560069, Karnataka, India",
-    "phone": "7483124193, 9241653033",
+    "phone": [
+      "+91 74831 24193",
+      "+91 92416 53033"
+    ],
     "email": "bkjayanagar9block.blr@bkivv.org",
     "latitude": 12.91738,
     "longitude": 77.59724,
@@ -632,7 +812,9 @@
   {
     "name": "Jnana Jyothi Nagar",
     "address": "Jnana Jyothi Bhawan, 1st Main, 4th Cross,, Ullal Road, Behind S.V.K. (choultry), Jnanabharathi, Jnana Jyothi Nagar, Bengaluru, 560056, Karnataka, India",
-    "phone": "9663870720",
+    "phone": [
+      "+91 96638 70720"
+    ],
     "email": "",
     "latitude": 12.9533502,
     "longitude": 77.4988267,
@@ -641,7 +823,9 @@
   {
     "name": "Judicial Layout",
     "address": "H No: 1586, Ashirwad, 3rd Main Road, Near Oyo Lodge, Judicial Layout, Near Gkvk University, Bengaluru, 560065, Karnataka, India",
-    "phone": "7411492660",
+    "phone": [
+      "+91 74114 92660"
+    ],
     "email": "",
     "latitude": 13.080289,
     "longitude": 77.589687,
@@ -650,7 +834,9 @@
   {
     "name": "K.R.Puram",
     "address": "H N0: 12, Shanti Prasta, Poultry Farm Compound, Near B.V.N.H.School, Devasandra Main Road, K.R.Puram, Bengaluru, 560036, Karnataka, India",
-    "phone": "9035319573",
+    "phone": [
+      "+91 90353 19573"
+    ],
     "email": "krpuram.blr@bkivv.org",
     "latitude": 13.0058653,
     "longitude": 77.700047,
@@ -659,7 +845,10 @@
   {
     "name": "Kachanayakanahalli",
     "address": "H No: 66, Pandav Bhawan, Ground Floor, Grand Icon Layout, Kachanayakanahalli, Tal: Anekal, Bengaluru, 560105, Karnataka, India",
-    "phone": "9449181808, 7021789241",
+    "phone": [
+      "+91 94491 81808",
+      "+91 70217 89241"
+    ],
     "email": "",
     "latitude": 12.799591,
     "longitude": 77.682124,
@@ -668,7 +857,9 @@
   {
     "name": "Kachohalli",
     "address": "H No: 24, Solar Building, Brahma Kumaris Road, Kachohalli Main Road, Chikkagollarahatti, Bengaluru, 560091, Karnataka, India",
-    "phone": "8147043217",
+    "phone": [
+      "+91 81470 43217"
+    ],
     "email": "",
     "latitude": 12.995342,
     "longitude": 77.469789,
@@ -677,7 +868,10 @@
   {
     "name": "Kadugudi",
     "address": "House No: 10, Krishna Krupa, Munne Shwara Layout, Near Indane Gas Agency, Fci Main Road, Kadugudi, Bengaluru, 560067, Karnataka, India",
-    "phone": "9916539785, 7019802242",
+    "phone": [
+      "+91 99165 39785",
+      "+91 70198 02242"
+    ],
     "email": "",
     "latitude": 12.989814,
     "longitude": 77.766393,
@@ -686,7 +880,9 @@
   {
     "name": "Kaggadasapura",
     "address": "H.No: 6, Ground Floor, 22nd Cross Road, C.V.Raman Nagar, Kaggadasapura, Bengaluru, 560093, Karnataka, India",
-    "phone": "8496919199",
+    "phone": [
+      "+91 84969 19199"
+    ],
     "email": "",
     "latitude": 12.982249,
     "longitude": 77.679569,
@@ -695,7 +891,10 @@
   {
     "name": "Kaggalipura",
     "address": "H No: 199/2, A Block, Kanakapura Main Road, Kaggalipura, Bengaluru South, Bengaluru, 560082, Karnataka, India",
-    "phone": "8197399560, 7989842932",
+    "phone": [
+      "+91 81973 99560",
+      "+91 79898 42932"
+    ],
     "email": "",
     "latitude": 12.79998,
     "longitude": 77.50795,
@@ -704,7 +903,9 @@
   {
     "name": "Kaikondrahalli",
     "address": "H No: 18/1, Jagdamba Bhawan, Opp: Dsr Daffodils, Kaikondrahalli, 4 Th Cross, B.M. Annaiah Reddy Layout, Bengaluru, 560103, Karnataka, India",
-    "phone": "6360029533",
+    "phone": [
+      "+91 63600 29533"
+    ],
     "email": "",
     "latitude": 12.921581,
     "longitude": 77.677074,
@@ -713,7 +914,10 @@
   {
     "name": "Kalyan Nagar",
     "address": "H.No: 12, 1st Floor, 8th Cross, 9th Main, H.B.R.Layout, Iv Th Block, Hennur Cross, Maruti Layout, Po: Kalyan Nagar, Bengaluru, 560043, Karnataka, India",
-    "phone": "7411011645, 9342843514",
+    "phone": [
+      "+91 74110 11645",
+      "+91 93428 43514"
+    ],
     "email": "kalyannagar.blr@bkivv.org",
     "latitude": 13.0336135,
     "longitude": 77.6331575,
@@ -722,7 +926,10 @@
   {
     "name": "Kamakshipalya",
     "address": "H No: 25, 10th Main Road, Vrushabhavathi Nagar, Kamakhshipalya, Bengaluru, 560079, Karnataka, India",
-    "phone": "7760521449, 9343718086",
+    "phone": [
+      "+91 77605 21449",
+      "+91 93437 18086"
+    ],
     "email": "mpalya.blr@bkivv.org",
     "latitude": 12.9892967,
     "longitude": 77.5276433,
@@ -731,7 +938,10 @@
   {
     "name": "Kammagondanahalli",
     "address": "Plot No: 4138, Prestige Kensington Gardens, Hmt Main Road, Jalahalli, Near Kammagondanahalli, Bengaluru, 560013, Karnataka, India",
-    "phone": "7795865781, 9971739168",
+    "phone": [
+      "+91 77958 65781",
+      "+91 99717 39168"
+    ],
     "email": "",
     "latitude": 13.051714,
     "longitude": 77.536,
@@ -740,7 +950,10 @@
   {
     "name": "Kammanahalli",
     "address": "H No: Old 127, New No: 10, 5th Cross, Sonnamarappa Street, Kammanahalli Main Road, R.S.Palya, Bengaluru, 560033, Karnataka, India",
-    "phone": "7019106066, 9739773230",
+    "phone": [
+      "+91 70191 06066",
+      "+91 97397 73230"
+    ],
     "email": "kammanahalli.blr@bkivv.org",
     "latitude": 13.006184,
     "longitude": 77.636415,
@@ -749,7 +962,9 @@
   {
     "name": "Kannur",
     "address": "Plot No: 198, Shiva Smruti Bhawan, Near Kannur Busstop, Hennur Bagalur Main Road, Behind Doddamma Temple, Bengaluru, 560077, Karnataka, India",
-    "phone": "9916356820",
+    "phone": [
+      "+91 99163 56820"
+    ],
     "email": "kannur.blr@bkivv.org",
     "latitude": 13.0931005,
     "longitude": 77.6548678,
@@ -758,7 +973,9 @@
   {
     "name": "Kasavanahalli",
     "address": "No:163, Houe Of Srinivasa Reddy, Amrita Engineering College Road, 5th Cross, Near Andhra Bank, Kasavanahalli, Bengaluru, 560035, Karnataka, India",
-    "phone": "7975570854",
+    "phone": [
+      "+91 79755 70854"
+    ],
     "email": "",
     "latitude": 12.908474,
     "longitude": 77.6755628,
@@ -767,7 +984,10 @@
   {
     "name": "Kasturiba Nagar",
     "address": "D.No: 16/2, Arif Manzil, 3rd Cross, Mysuru Road, Kasturiba Nagar, Bengaluru, 560026, Karnataka, India",
-    "phone": "080-26755053, 8277364540",
+    "phone": [
+      "+91 80 2675 5053",
+      "+91 82773 64540"
+    ],
     "email": "vittalnagar.blr@bkivv.org",
     "latitude": 12.954588,
     "longitude": 77.552896,
@@ -776,7 +996,9 @@
   {
     "name": "Kaval Byrasandra",
     "address": "Flat No: 102, Kusuma Apartments, D.No: 1010, Behind P&t Quarters, 1st Main Road, Kaval Byrasandra Extn., Bengaluru, 560032, Karnataka, India",
-    "phone": "9880784540",
+    "phone": [
+      "+91 98807 84540"
+    ],
     "email": "kavalbyrasandra.blr@bkivv.org",
     "latitude": 13.0249287,
     "longitude": 77.606938,
@@ -785,7 +1007,10 @@
   {
     "name": "Kempegowda Nagar",
     "address": "Door No: 422, 1st Main, Gavipuram Guttahalli,, Kempegowda Nagar, Bengaluru, 560019, Karnataka, India",
-    "phone": "8073730634, 9900228711",
+    "phone": [
+      "+91 80737 30634",
+      "+91 99002 28711"
+    ],
     "email": "",
     "latitude": 12.9492,
     "longitude": 77.559622,
@@ -794,7 +1019,10 @@
   {
     "name": "Kengeri Satellite Town",
     "address": "H.No: 43, 8th Cross, Harsha Layout, Near Ranka Aquagreen Aprarment, Kengeri, Bengaluru, 560060, Karnataka, India",
-    "phone": "9731366947, 9490322817",
+    "phone": [
+      "+91 97313 66947",
+      "+91 94903 22817"
+    ],
     "email": "",
     "latitude": 12.917918,
     "longitude": 77.485525,
@@ -803,7 +1031,10 @@
   {
     "name": "Kengeri Upanagara",
     "address": "No:521,divya Sankalpa, 4th Main Road, 7th Cross, Near Raghavendra Temple, Kengeri Satellite Town, Bengaluru, 560060, Karnataka, India",
-    "phone": "9611259866, 8971044242",
+    "phone": [
+      "+91 96112 59866",
+      "+91 89710 44242"
+    ],
     "email": "",
     "latitude": 12.923733,
     "longitude": 77.483437,
@@ -812,7 +1043,9 @@
   {
     "name": "Kodigehalli",
     "address": "H No: 37/297, Old Society Road, Near Ram Mandir, Kodigehalli, Bengaluru, 560092, Karnataka, India",
-    "phone": "9886234331",
+    "phone": [
+      "+91 98862 34331"
+    ],
     "email": "",
     "latitude": 13.0585567,
     "longitude": 77.5754167,
@@ -821,7 +1054,10 @@
   {
     "name": "Kodipalya",
     "address": "H No: 155, Royal Residency Layout Phase 1, 1st Cross Road, Kodipalya, Bengaluru, 560060, Karnataka, India",
-    "phone": "9945146215, 7795662718",
+    "phone": [
+      "+91 99451 46215",
+      "+91 77956 62718"
+    ],
     "email": "kodipalya.blr@bkivv.org",
     "latitude": 12.901433,
     "longitude": 77.483118,
@@ -830,7 +1066,10 @@
   {
     "name": "Koramangala",
     "address": "Ashirwad Bhawan, H No: 906, 3rd Floor, G.N.R. Plaza, 80 Feet Road, 6th Block, Koramangala, Bengaluru, 560095, Karnataka, India",
-    "phone": "080- 25635537, 9448935544",
+    "phone": [
+      "+91 80 2563 5537",
+      "+91 94489 35544"
+    ],
     "email": "koramangala.blr@bkivv.org",
     "latitude": 12.9387688,
     "longitude": 77.6260937,
@@ -839,7 +1078,10 @@
   {
     "name": "Kumara Park",
     "address": "H.No: 6, Govind Rao Street, Kumarapark West, Bengaluru, 560020, Karnataka, India",
-    "phone": "080- 23443988, 9448230115",
+    "phone": [
+      "+91 80 2344 3988",
+      "+91 94482 30115"
+    ],
     "email": "kumarapark.blr@bkivv.org",
     "latitude": 12.990905,
     "longitude": 77.5756133,
@@ -848,7 +1090,9 @@
   {
     "name": "Kumaraswamy Layout",
     "address": "H.No: 815, 52 Main Road, 25th Cross, 1st Stage, Kumara Swamy Layout, Bengaluru, 560078, Karnataka, India",
-    "phone": "9611598369",
+    "phone": [
+      "+91 96115 98369"
+    ],
     "email": "kslayout.blr@bkivv.org",
     "latitude": 12.905683,
     "longitude": 77.562198,
@@ -857,7 +1101,9 @@
   {
     "name": "Kurubarahalli",
     "address": "H.No: 20/8-1(old No:17/a), 8th Cross, 15th Main Road, J.C.Nagar, Kurubarahalli, Bengaluru, 560086, Karnataka, India",
-    "phone": "7302003204",
+    "phone": [
+      "+91 73020 03204"
+    ],
     "email": "kurubarahalli.blr@bkivv.org",
     "latitude": 13.0027302,
     "longitude": 77.5333468,
@@ -866,7 +1112,9 @@
   {
     "name": "Laggere",
     "address": "H.No:66, 1st Main, 1st Cross, Iyengar Layout, Laggere, Bengaluru, 560058, Karnataka, India",
-    "phone": "8660796301",
+    "phone": [
+      "+91 86607 96301"
+    ],
     "email": "",
     "latitude": 13.0201192,
     "longitude": 77.5180326,
@@ -875,7 +1123,9 @@
   {
     "name": "Lakkasandra",
     "address": "H.No: 05, 1st Cross, Bannerghatta Road, Gupta Layout, Lakkasandra, Adugodi, Bengaluru, 560030, Karnataka, India",
-    "phone": "9449922526",
+    "phone": [
+      "+91 94499 22526"
+    ],
     "email": "",
     "latitude": 12.94267,
     "longitude": 77.60268,
@@ -884,7 +1134,10 @@
   {
     "name": "M C Layout",
     "address": "H No: 313, 18th Cross, 18th Main Road, M C Layout, Vijayanagar, Bengaluru, 560040, Karnataka, India",
-    "phone": "7816065816, 9448238103",
+    "phone": [
+      "+91 78160 65816",
+      "+91 94482 38103"
+    ],
     "email": "mclayout.blr@bkivv.org",
     "latitude": 12.9699,
     "longitude": 77.5359,
@@ -893,7 +1146,10 @@
   {
     "name": "M S Palya",
     "address": "H No: 33, Hesaraghatta Road, Behind Domin Os Pizza, Chandrappa Layout, M.S. Palya, Bengaluru, 560097, Karnataka, India",
-    "phone": "9491456516, 9481678205",
+    "phone": [
+      "+91 94914 56516",
+      "+91 94816 78205"
+    ],
     "email": "",
     "latitude": 13.084908,
     "longitude": 77.548216,
@@ -902,7 +1158,10 @@
   {
     "name": "Madiwala",
     "address": "56, 1st Floor, 5th Cross Road, 34th Main Road, B.T.M. Lay Out, Dollar Scheme, Near Sandhya Theater, Madiwala, 1st Stage, Bengaluru, 560068, Karnataka, India",
-    "phone": "8088627803, 8147792647",
+    "phone": [
+      "+91 80886 27803",
+      "+91 81477 92647"
+    ],
     "email": "madiwala.blr@bkivv.org",
     "latitude": 12.920197,
     "longitude": 77.619357,
@@ -911,7 +1170,10 @@
   {
     "name": "Mallasandra",
     "address": "H No:24/a, Old No: 34, 7th Cross, Guruji Main Road, Mallasandra, T.Dasarahalli, Bengaluru, 560057, Karnataka, India",
-    "phone": "8971937767, 7760756718",
+    "phone": [
+      "+91 89719 37767",
+      "+91 77607 56718"
+    ],
     "email": "",
     "latitude": 13.050474,
     "longitude": 77.514064,
@@ -920,7 +1182,9 @@
   {
     "name": "Malleshpalya",
     "address": "House No-65/1-1, Tapaswi Dham, Ist Main, 3rd 'c' Cross, Malleshpalya, Bengaluru, 560075, Karnataka, India",
-    "phone": "8792869718",
+    "phone": [
+      "+91 87928 69718"
+    ],
     "email": "",
     "latitude": 12.9777993,
     "longitude": 77.6704447,
@@ -929,7 +1193,9 @@
   {
     "name": "Malleswaram",
     "address": "H.No:96, 5th Cross, Malleswaram, Bengaluru, 560003, Karnataka, India",
-    "phone": "080-23565064",
+    "phone": [
+      "+91 80 2356 5064"
+    ],
     "email": "malleswaram.blr@bkivv.org",
     "latitude": 12.9967566,
     "longitude": 77.5726053,
@@ -938,7 +1204,10 @@
   {
     "name": "Manjunatha Nagar",
     "address": "H.No: 199, 2 Nd Floor, 4th Main Road, 2nd Phase, Ist Stage, 40ft. Road, Manjunatha Nagar, Bengaluru, 560010, Karnataka, India",
-    "phone": "9986346537, 8310692014",
+    "phone": [
+      "+91 99863 46537",
+      "+91 83106 92014"
+    ],
     "email": "manjunathanagar.blr@bkivv.org",
     "latitude": 12.9939496,
     "longitude": 77.5493286,
@@ -947,7 +1216,10 @@
   {
     "name": "Muthanallur",
     "address": "H No: 509, Shiv Gyanmurth Bhawan, Near Busstand, Muthanallur Post, The: Anekal, Bengaluru, 560099, Karnataka, India",
-    "phone": "9742885990, 8277124074",
+    "phone": [
+      "+91 97428 85990",
+      "+91 82771 24074"
+    ],
     "email": "",
     "latitude": 12.834242,
     "longitude": 77.733729,
@@ -956,7 +1228,9 @@
   {
     "name": "Nagarbhavi",
     "address": "139, 4th Cross, Chendra Layout, 80 Feet Road, Jyothi Nagar, Nagarbhavi, Bengaluru, 560072, Karnataka, India",
-    "phone": "9448864275",
+    "phone": [
+      "+91 94488 64275"
+    ],
     "email": "bkmamatha4@gmail.com",
     "latitude": 12.9582193,
     "longitude": 77.5214771,
@@ -965,7 +1239,11 @@
   {
     "name": "Nagasandra",
     "address": "H.No: 15, Shiva Chatra Chaye, G.M. Cottage, 2nd Main Road, Dodda Bidare Kallu, Suvarna Nagar, Nagasandra, Bengaluru, 560073, Karnataka, India",
-    "phone": "9741030650, 9110629396, 9741030650, 8497016886",
+    "phone": [
+      "+91 97410 30650",
+      "+91 91106 29396",
+      "+91 84970 16886"
+    ],
     "email": "nagasandra.blr@bkivv.org",
     "latitude": 13.030834,
     "longitude": 77.495503,
@@ -974,7 +1252,9 @@
   {
     "name": "Nagondanahalli",
     "address": "H No: 405, Shiva Smruthi Bhawan, Veera Brahmendra Swamy Temple Road, White Field, Nagondanahalli, Bengaluru, 560066, Karnataka, India",
-    "phone": "9591256945",
+    "phone": [
+      "+91 95912 56945"
+    ],
     "email": "",
     "latitude": 12.975552,
     "longitude": 77.769612,
@@ -983,7 +1263,10 @@
   {
     "name": "Nandini Layout",
     "address": "H.No: 178, 8th Cross, 2nd Main Road, 2nd Block, Beside Shivam Dance Class, Nandini Layout, Bengaluru, 560096, Karnataka, India",
-    "phone": "080- 23471661, 9164465509",
+    "phone": [
+      "+91 80 2347 1661",
+      "+91 91644 65509"
+    ],
     "email": "",
     "latitude": 13.018921,
     "longitude": 77.530331,
@@ -992,7 +1275,10 @@
   {
     "name": "Navaratna Agrahara",
     "address": "Survey No-88/5, Shiva Smruthi Bhawan, Rastra Kavi Kuvempu Road, Sadahalli Gate, Beside Msc Grainte, Tal: Yelahanka, Bengaluru, 562157, Karnataka, India",
-    "phone": "8130511781, 9480702853",
+    "phone": [
+      "+91 81305 11781",
+      "+91 94807 02853"
+    ],
     "email": "",
     "latitude": 13.20011,
     "longitude": 77.634107,
@@ -1001,7 +1287,9 @@
   {
     "name": "Old Yelahanka",
     "address": "H No: 1673, 2nd Main Road, Kamakshamma Layout, Yelahanka Old Town, Near Railway Station, Bengaluru, 560064, Karnataka, India",
-    "phone": "9380473811",
+    "phone": [
+      "+91 93804 73811"
+    ],
     "email": "",
     "latitude": 13.1054614,
     "longitude": 77.5929658,
@@ -1010,7 +1298,10 @@
   {
     "name": "Omkar Hills",
     "address": "H.No:8/a, Kaustuba , 1st Floor, Durga Layout, Krishna Garden Road, Omkar Hills, Rr Nagar, Mailasandra, Bengaluru, 560060, Karnataka, India",
-    "phone": "9148058352, 7406706526",
+    "phone": [
+      "+91 91480 58352",
+      "+91 74067 06526"
+    ],
     "email": "omkarhills.blr@bkivv.org",
     "latitude": 12.907333,
     "longitude": 77.506,
@@ -1019,7 +1310,9 @@
   {
     "name": "Padmanabha Nagar",
     "address": "H No: 16, 1st Floor, Shiv Jyoti, Opp: Carmel School Ist Gate, 80 Feet Road, Padmanabha Nagar, Bengaluru, 560070, Karnataka, India",
-    "phone": "7483346602",
+    "phone": [
+      "+91 74833 46602"
+    ],
     "email": "padmanabhanagar.blr@bkivv.org",
     "latitude": 12.9188926,
     "longitude": 77.560086,
@@ -1028,7 +1321,10 @@
   {
     "name": "Pai Layout",
     "address": "H.No: 228, 2nd Main Road, 2nd Cross, Pai Layout, Mahadevapura, Old Madras Road, Bengaluru, 560016, Karnataka, India",
-    "phone": "8867752595, 9972796683",
+    "phone": [
+      "+91 88677 52595",
+      "+91 99727 96683"
+    ],
     "email": "",
     "latitude": 12.9925795,
     "longitude": 77.666875,
@@ -1037,7 +1333,10 @@
   {
     "name": "Parappana Agrahara",
     "address": "Plot No: 5, Sai Shree Layout, 2nd Cross, Opp: Bosh Gate, Hosa Road, Parappana Agrahara, Bengaluru, 560100, Karnataka, India",
-    "phone": "7760523743, 9739297493",
+    "phone": [
+      "+91 77605 23743",
+      "+91 97392 97493"
+    ],
     "email": "",
     "latitude": 12.873653,
     "longitude": 77.6607727,
@@ -1046,7 +1345,10 @@
   {
     "name": "Peenya 2nd Stage",
     "address": "H No: 467, Satyam Shivam Sundaram, 2nd Cross, Maramma Temple Road, Peenya 2nd Stage, Rajagopal Nagar, Bengaluru, 560058, Karnataka, India",
-    "phone": "8105167092, 7760756718",
+    "phone": [
+      "+91 81051 67092",
+      "+91 77607 56718"
+    ],
     "email": "",
     "latitude": 13.011096,
     "longitude": 77.50766,
@@ -1055,7 +1357,10 @@
   {
     "name": "Priyadharshini Layout",
     "address": "H.No: 12, 4th Cross, 2nd Main, Priyadharshini Layout, Nagarabhavi Main Road,  Moodalapalaya, Bengaluru, 560072, Karnataka, India",
-    "phone": "080- 23153814, 9742078478",
+    "phone": [
+      "+91 80 2315 3814",
+      "+91 97420 78478"
+    ],
     "email": "priyadharshini.blr@bkivv.org",
     "latitude": 12.9706852,
     "longitude": 77.5274963,
@@ -1064,7 +1369,10 @@
   {
     "name": "Puradapalya",
     "address": "Sy.No: 33/4, Tavarekere Hobli, Puradapalya, Bengaluru, 562130, Karnataka, India",
-    "phone": "9019457576, 9535141355",
+    "phone": [
+      "+91 90194 57576",
+      "+91 95351 41355"
+    ],
     "email": "",
     "latitude": 12.94725,
     "longitude": 77.37368,
@@ -1073,7 +1381,9 @@
   {
     "name": "R T Nagar",
     "address": "H No: 193, First Floor, 9th Cross, Hmt Layout, Opp: Poornima Hospital, R.T. Nagar, Bengaluru, 560032, Karnataka, India",
-    "phone": "8722311115",
+    "phone": [
+      "+91 87223 11115"
+    ],
     "email": "rtnagar.blr@bkivv.org",
     "latitude": 13.026168,
     "longitude": 77.594982,
@@ -1082,7 +1392,10 @@
   {
     "name": "Raja Rajeshwari Nagar",
     "address": "H.No: 1502, 4th Main Road, B.E.M.L.Layout, 2nd Cross, 5th Stage, 1st Phase, Near Mother Of Good Health School, Bengaluru, 560098, Karnataka, India",
-    "phone": "080-45890721, 8861228866",
+    "phone": [
+      "+91 80 4589 0721",
+      "+91 88612 28866"
+    ],
     "email": "",
     "latitude": 12.918332,
     "longitude": 77.514238,
@@ -1091,7 +1404,9 @@
   {
     "name": "Rajaji Nagar",
     "address": "H.No: 911, 16th Main, 42nd Cross, Near Esi Hospital, 3rd Block, Rajaji Nagar, Bengaluru, 560010, Karnataka, India",
-    "phone": "9900293230",
+    "phone": [
+      "+91 99002 93230"
+    ],
     "email": "rajajinagar.blr@bkivv.org",
     "latitude": 12.988874,
     "longitude": 77.552935,
@@ -1100,7 +1415,10 @@
   {
     "name": "Rajanukunte",
     "address": "H No: 30, Sadbhavna Bhawan, Nandi Enclave, Adde Vishwanathpura Main Road, Opp:mv Sundridge Villa, Rajanukunte, 560064, Karnataka, India",
-    "phone": "9008853473, 8073724849",
+    "phone": [
+      "+91 90088 53473",
+      "+91 80737 24849"
+    ],
     "email": "",
     "latitude": 13.177228,
     "longitude": 77.558496,
@@ -1109,7 +1427,9 @@
   {
     "name": "Sahakara Nagar",
     "address": "H No: 284, 4th Main, 17th Cross, Cqal Layout, T Block, Sahakara Nagar, Bengaluru, 560092, Karnataka, India",
-    "phone": "9739698468",
+    "phone": [
+      "+91 97396 98468"
+    ],
     "email": "",
     "latitude": 13.06155,
     "longitude": 77.58114,
@@ -1118,7 +1438,9 @@
   {
     "name": "Sampangirama Nagar",
     "address": "H.No: 15/2, Swarnanilaya, 12th A Cross, Sindhi Hospital Road, Sampangirama Nagar, Bengaluru, 560027, Karnataka, India",
-    "phone": "7975738489",
+    "phone": [
+      "+91 79757 38489"
+    ],
     "email": "srnagar.blr@bkivv.org",
     "latitude": 12.9644081,
     "longitude": 77.5931609,
@@ -1127,7 +1449,11 @@
   {
     "name": "Sanjay Nagar",
     "address": "Brahma Kutir No: 1, 1st Main, 3rd Cross, Aecs Layout, Geddalahalli, Sanjay Nagar, Bengaluru, 560094, Karnataka, India",
-    "phone": "080- 23410660, 9482598535, 8310650155",
+    "phone": [
+      "+91 80 2341 0660",
+      "+91 94825 98535",
+      "+91 83106 50155"
+    ],
     "email": "sanjaynagar.blr@bkivv.org",
     "latitude": 13.0309121,
     "longitude": 77.5752147,
@@ -1136,7 +1462,10 @@
   {
     "name": "Sarakki",
     "address": "H.No: 14/13, 40th Main, 9th Cross, Opp: Jayashree Public School, J.P.Nagar, 1st Phase, Sarakki, Bengaluru, 560078, Karnataka, India",
-    "phone": "080- 26641864, 9738587977",
+    "phone": [
+      "+91 80 2664 1864",
+      "+91 97385 87977"
+    ],
     "email": "",
     "latitude": 12.911161,
     "longitude": 77.573476,
@@ -1145,7 +1474,9 @@
   {
     "name": "Sarjapur",
     "address": "H.No: 41, Vidyanagar Main Road, Behind S.V.P. High School, Teh: Anekal, Bengaluru, 562125, Karnataka, India",
-    "phone": "8105711735",
+    "phone": [
+      "+91 81057 11735"
+    ],
     "email": "",
     "latitude": 12.8623058,
     "longitude": 77.7843409,
@@ -1154,7 +1485,10 @@
   {
     "name": "Shanthinagar",
     "address": "H.No: 1/1-1/105, D.No: A-005 , Ground Floor, Mahavir Lotus Pond, Shanti Road, Shanthinagar, Opp Usha Paradise, Bengaluru, 560027, Karnataka, India",
-    "phone": "8618641744, 9591937066",
+    "phone": [
+      "+91 86186 41744",
+      "+91 95919 37066"
+    ],
     "email": "shanthinagar.blr@bkivv.org",
     "latitude": 12.960124,
     "longitude": 77.594847,
@@ -1163,7 +1497,10 @@
   {
     "name": "Shivaji Nagar",
     "address": "Excelsior Apartments, No: 22, Canara Bank Atm, Thappa Modaliar Street, Shivaji Nagar, Cantt,, Bengaluru, 560001, Karnataka, India",
-    "phone": "9341747911, 8722311115",
+    "phone": [
+      "+91 93417 47911",
+      "+91 87223 11115"
+    ],
     "email": "cantt.blr@bkivv.org",
     "latitude": 12.9855574,
     "longitude": 77.6082226,
@@ -1172,7 +1509,10 @@
   {
     "name": "Shivashakti Nagar",
     "address": "H No: 85, 4th Cross, Shivashakti Nagar, Mayanna Layout, Behind Jindal Pristage, Manjunath Nagar, Bengaluru, 560073, Karnataka, India",
-    "phone": "9008444070, 8073725716",
+    "phone": [
+      "+91 90084 44070",
+      "+91 80737 25716"
+    ],
     "email": "",
     "latitude": 13.05935,
     "longitude": 77.49079,
@@ -1181,7 +1521,9 @@
   {
     "name": "Siddhapur",
     "address": "H No: 17-18, 2nd Main, 2nd Cross, Varthur Main Road, Po: Rg Halli, Opp: Govt. School, Siddhapur, Bengaluru, 560066, Karnataka, India",
-    "phone": "8951594880",
+    "phone": [
+      "+91 89515 94880"
+    ],
     "email": "",
     "latitude": 12.9552856,
     "longitude": 77.728166,
@@ -1190,7 +1532,9 @@
   {
     "name": "Singapura Layout",
     "address": "H No: 8/48, Brindavana Nilaya, 1st Main 2nd Cross, Nr. Shrutika Spring Fields Apartments, Singapura Layout, P: Vidyaranyapura, Bengaluru, 560014, Karnataka, India",
-    "phone": "8197404066",
+    "phone": [
+      "+91 81974 04066"
+    ],
     "email": "",
     "latitude": 13.076767,
     "longitude": 77.540703,
@@ -1199,7 +1543,10 @@
   {
     "name": "Srinagar",
     "address": "H.No: 985, Ist Floor, 13th Main, 1st Block, Bsk 1st Stage, Near Meenakshi Hospital, Srinagar, Bengaluru, 560050, Karnataka, India",
-    "phone": "080- 26753045, 9845242013",
+    "phone": [
+      "+91 80 2675 3045",
+      "+91 98452 42013"
+    ],
     "email": "srinagr.blr@bkivv.org",
     "latitude": 12.9429818,
     "longitude": 77.5538768,
@@ -1208,7 +1555,9 @@
   {
     "name": "Sunkada Katte",
     "address": "H.No: 8/1, Gajanana Nagar, Heggha Halli Cross, Sunkada Katte, Bengaluru, 560091, Karnataka, India",
-    "phone": "9845936196",
+    "phone": [
+      "+91 98459 36196"
+    ],
     "email": "sunkadakatte.blr@bkivv.org",
     "latitude": 12.9978544,
     "longitude": 77.5052645,
@@ -1217,7 +1566,9 @@
   {
     "name": "T Dasarahalli",
     "address": "H No: 67, Mahadani Bhavan, 18th 'a' Cross, Defence Colony, Bagalagunte, T Dasarhalli, Bengaluru, 560073, Karnataka, India",
-    "phone": "7760756718",
+    "phone": [
+      "+91 77607 56718"
+    ],
     "email": "tdasarahalli.blr@bkivv.org",
     "latitude": 13.057598,
     "longitude": 77.505211,
@@ -1226,7 +1577,9 @@
   {
     "name": "Tanisandra",
     "address": "House No: 210, 1st Cross, Tanisandra Main Road, Behind Bbmp Office, Bengaluru, 560077, Karnataka, India",
-    "phone": "9663773995",
+    "phone": [
+      "+91 96637 73995"
+    ],
     "email": "",
     "latitude": 13.05721,
     "longitude": 77.634512,
@@ -1235,7 +1588,10 @@
   {
     "name": "Tavarekere",
     "address": "H No: 46, Spg Colony, Magadi Main Road, Behind Freshland Hyper Mart, Tavarekere, Bengaluru, 562130, Karnataka, India",
-    "phone": "8217836295, 9845936196",
+    "phone": [
+      "+91 82178 36295",
+      "+91 98459 36196"
+    ],
     "email": "tavarekere.blr@bkivv.org",
     "latitude": 12.966053,
     "longitude": 77.402138,
@@ -1244,7 +1600,9 @@
   {
     "name": "Thimmasandra",
     "address": "Khata No: 02/02/2/1, Vishwa Shanti Bhawan, Near Govt. Elementary School, Rajan Kunta Rd, Post: Tarahunase, Thimmasandra, Bengaluru, 562157, Karnataka, India",
-    "phone": "8870043391",
+    "phone": [
+      "+91 88700 43391"
+    ],
     "email": "",
     "latitude": 13.1714855,
     "longitude": 77.5798343,
@@ -1253,7 +1611,9 @@
   {
     "name": "Tindlu",
     "address": "H No: 77, 2nd Cross Road, Bullet Krishnappa Layout, Tindlu, Near Satygreen Apartment,  Vidyaranyapura , Bengaluru, 560097, Karnataka, India",
-    "phone": "9481458562",
+    "phone": [
+      "+91 94814 58562"
+    ],
     "email": "",
     "latitude": 13.07253,
     "longitude": 77.5709,
@@ -1262,7 +1622,10 @@
   {
     "name": "Uttanahalli",
     "address": "H No: 218/1, Behind Dhanalakshmi Temple, Near Bus Stop, Dhanakakshmi Temple Rd, Post: Chikkajala, Tal: North Bangalore, Uttanahalli, 562157, Karnataka, India",
-    "phone": "8217539853, 9241738969",
+    "phone": [
+      "+91 82175 39853",
+      "+91 92417 38969"
+    ],
     "email": "uttanahalli@bkivv.org",
     "latitude": 13.165867,
     "longitude": 77.651497,
@@ -1271,7 +1634,9 @@
   {
     "name": "Uttarahalli",
     "address": "H No: 903, 35th Cross, Poorna Pragna Layout, Uttarahalli, Post: Subramanyapura, Bengaluru, 560061, Karnataka, India",
-    "phone": "7204402840",
+    "phone": [
+      "+91 72044 02840"
+    ],
     "email": "",
     "latitude": 12.9036477,
     "longitude": 77.5354813,
@@ -1280,7 +1645,9 @@
   {
     "name": "V.V.Puram",
     "address": "H No: 120, Akshay Nilaya, Surveyor Street, Basavanagudi, Bengaluru, 560004, Karnataka, India",
-    "phone": "7483718361",
+    "phone": [
+      "+91 74837 18361"
+    ],
     "email": "",
     "latitude": 12.9472815,
     "longitude": 77.5724894,
@@ -1289,7 +1656,9 @@
   {
     "name": "Vajarahalli",
     "address": "H No: 215, Aditya, 7th B Cross, 4th Main, Behind Sharma Transport, Bhcs Layout, Vajarahalli, Po; Talaghatapura, Bengaluru, 560109, Karnataka, India",
-    "phone": "9844222694",
+    "phone": [
+      "+91 98442 22694"
+    ],
     "email": "vajarahalli.blr@bkivv.org",
     "latitude": 12.873731,
     "longitude": 77.537927,
@@ -1298,7 +1667,9 @@
   {
     "name": "Varthur",
     "address": "Channaraya Swamy Temple Street, Opp: Green House, Behind Sanjevaiah Compound, Bengaluru South, Varthur, Varthur, 560087, Karnataka, India",
-    "phone": "9036614807",
+    "phone": [
+      "+91 90366 14807"
+    ],
     "email": "",
     "latitude": 12.9403257,
     "longitude": 77.7458522,
@@ -1307,7 +1678,9 @@
   {
     "name": "Vasanth Nagar",
     "address": "H.No: 21, 5th Cross Road, 11th Main, Vasanth Nagar, Bengaluru, 560052, Karnataka, India",
-    "phone": "9019194658",
+    "phone": [
+      "+91 90191 94658"
+    ],
     "email": "vasanthnagar.blr@bkivv.org",
     "latitude": 12.99226,
     "longitude": 77.59118,
@@ -1316,7 +1689,9 @@
   {
     "name": "Vasantha Vallabha Nagar",
     "address": "H No: 1, 1st Floor, Aprameya, 4th Cross, Vasantha Vallabha Nagar, Vasanthapura, Bengaluru, 560061, Karnataka, India",
-    "phone": "9972916197",
+    "phone": [
+      "+91 99729 16197"
+    ],
     "email": "",
     "latitude": 12.892887,
     "longitude": 77.554763,
@@ -1325,7 +1700,10 @@
   {
     "name": "Venkategowda Layout",
     "address": "H.No: 6, Shiv Prerana Bhawan, 1st A Main Cross, 1st Cross, Nr. Vinayaka School, Venkategowda Layout, Tal: Hebbal Kempapura, Bengaluru, 560024, Karnataka, India",
-    "phone": "9113548101, 9686012540",
+    "phone": [
+      "+91 91135 48101",
+      "+91 96860 12540"
+    ],
     "email": "",
     "latitude": 13.052765,
     "longitude": 77.603139,
@@ -1334,7 +1712,11 @@
   {
     "name": "Vidyaranyapura",
     "address": "H.No:6, 11th Main Road, 1st Block, Hmt Lay-out, Near Bbmp Office, Vidyaranyapura, Bengaluru, 560097, Karnataka, India",
-    "phone": "080-23641895, 9341242253, 9945480489",
+    "phone": [
+      "+91 80 2364 1895",
+      "+91 93412 42253",
+      "+91 99454 80489"
+    ],
     "email": "vrpura.blr@bkivv.org",
     "latitude": 13.076442,
     "longitude": 77.560287,
@@ -1343,7 +1725,9 @@
   {
     "name": "Vijay Nagar",
     "address": "H No: 1572, 7th Main, Hampi Nagar, 2nd Stage, Vijaya Nagar, (rpc Layout), Bengaluru, 560104, Karnataka, India",
-    "phone": "9916758137",
+    "phone": [
+      "+91 99167 58137"
+    ],
     "email": "",
     "latitude": 12.96214,
     "longitude": 77.53794,
@@ -1352,7 +1736,10 @@
   {
     "name": "Vijayanagar 4th Main",
     "address": "H No: 885, 4th Main Road, 3rd Cross, Vijayanagar, Bengaluru, 560040, Karnataka, India",
-    "phone": "9448238103, 9738539665",
+    "phone": [
+      "+91 94482 38103",
+      "+91 97385 39665"
+    ],
     "email": "vijayanagar5thmain.blr@bkivv.org",
     "latitude": 12.971808,
     "longitude": 77.544383,
@@ -1361,7 +1748,10 @@
   {
     "name": "Vyali Kaval",
     "address": "H.No: 810 (44), 11th Cross, Ist Floor, Vyali Kaval, Bengaluru, 560003, Karnataka, India",
-    "phone": "080- 23342750, 7337796573",
+    "phone": [
+      "+91 80 2334 2750",
+      "+91 73377 96573"
+    ],
     "email": "vyalikaval.blr@bkivv.org",
     "latitude": 13.0017739,
     "longitude": 77.5766454,
@@ -1370,7 +1760,9 @@
   {
     "name": "West Of Chord Road",
     "address": "H No: 1354, 11th Cross, Near Shanimatma Temple, Mahalakshmipuram , West Of Chord Road Iind Stage, Bengaluru, 560086, Karnataka, India",
-    "phone": "9620969049",
+    "phone": [
+      "+91 96209 69049"
+    ],
     "email": "",
     "latitude": 13.000658,
     "longitude": 77.544586,
@@ -1379,7 +1771,11 @@
   {
     "name": "White Field",
     "address": "Khata No: 183/166/54/4-1, Near Sri Ram Temple, Hagdur Colony, Immadi Halli, Main Road, Bengaluru, 560066, Karnataka, India",
-    "phone": "080- 28455869, 9590323650, 9591256945",
+    "phone": [
+      "+91 80 2845 5869",
+      "+91 95903 23650",
+      "+91 95912 56945"
+    ],
     "email": "whitefields.blr@bkivv.org",
     "latitude": 12.9695251,
     "longitude": 77.7560889,
@@ -1388,7 +1784,9 @@
   {
     "name": "Yelahanka Maruthi Nagar",
     "address": "H.No: 955/9-37, Papanna Layout, Kogilu Main Road, Maruthi Nagar, Yelahanka, Bengaluru, 560064, Karnataka, India",
-    "phone": "9480702853",
+    "phone": [
+      "+91 94807 02853"
+    ],
     "email": "marutinagar.blr@bkivv.org",
     "latitude": 13.1022653,
     "longitude": 77.6087421,
@@ -1397,7 +1795,11 @@
   {
     "name": "Yelahanka New Town",
     "address": "S.F.S. B-1/9, 12th B Main Road, Near Omega Hospital, Yelahanka New Town, Bengaluru, 560064, Karnataka, India",
-    "phone": "080- 28560606, 9380486676, 9448904563",
+    "phone": [
+      "+91 80 2856 0606",
+      "+91 93804 86676",
+      "+91 94489 04563"
+    ],
     "email": "yelahankanewtown.blr@bkivv.org",
     "latitude": 13.1001768,
     "longitude": 77.5820375,
@@ -1406,7 +1808,10 @@
   {
     "name": "Yeshwanthpur 1st Main Road",
     "address": "H.No.23, Ist Main Road, Mathikere Post, Yeshwanthpur, Bengaluru, 560054, Karnataka, India",
-    "phone": "080-23472385, 9019170698",
+    "phone": [
+      "+91 80 2347 2385",
+      "+91 90191 70698"
+    ],
     "email": "yeswanthapuram.blr@bkivv.org",
     "latitude": 13.02781078,
     "longitude": 77.55850258,
@@ -1415,7 +1820,10 @@
   {
     "name": "Yeshwanthpur Lic Colony",
     "address": "H.No: 5, Ground Floor, Lic Colony, Ward No:37, Yeshwanthpur, Bengaluru, 560022, Karnataka, India",
-    "phone": "080- 23576437, 9741635765",
+    "phone": [
+      "+91 80 2357 6437",
+      "+91 97416 35765"
+    ],
     "email": "",
     "latitude": 13.029948,
     "longitude": 77.5534093,
