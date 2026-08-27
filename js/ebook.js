@@ -20,7 +20,8 @@ let currentLanguage = "";
 let currentPage = 1;
 let totalPages = 0;
 const audioLanguages = [
-    "tamil"
+    "tamil",
+    "english"
 ];
 // =========================================================
 // HTML ELEMENTS
