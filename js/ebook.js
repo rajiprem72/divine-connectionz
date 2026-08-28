@@ -8,7 +8,7 @@ const books = {
     hindi: 29,
     malayalam: 31,
     telugu: 36,
-    kannada: 35,
+    kannada: 31,
     tamil: 28
 };
 
