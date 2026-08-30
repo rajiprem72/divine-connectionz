@@ -1,5 +1,11 @@
-User-agent: *
+# Divine Connectionz crawler policy
+# Allow public Raja Yoga learning content to be discovered by search engines
+# and AI search crawlers.
 
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
 Allow: /
 
 Sitemap: https://www.divine-connectionz.com/sitemap.xml
