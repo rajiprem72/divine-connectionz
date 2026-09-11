@@ -42,37 +42,67 @@ const nextBtn = document.getElementById("next-btn");
 const pageNumber = document.getElementById("page-number");
 
 
-function playCurrentPageAudio() {
 
-   const language = currentLanguage;
+async function playCurrentPageAudio() {
+
+    const language = currentLanguage;
 
     if (!audioLanguages.includes(language)) {
-
         return;
-
     }
 
-    const audio = document
-        .getElementById("page-audio");
+    const audio = document.getElementById("page-audio");
 
     audio.pause();
-
     audio.currentTime = 0;
 
-    audio.src =
-        `audio/${language}/${currentPage}.m4a`;
+    const basePath = `audio/${language}/${currentPage}`;
 
-    audio.load();
+    const audioSources = [
+        `${basePath}.mp3`,
+        `${basePath}.m4a`,
+        `${basePath}.mp4`
+    ];
 
-    audio.play().catch(function (error) {
+    for (const source of audioSources) {
 
-        console.log(
-            "Audio playback blocked:",
-            error
-        );
+        try {
 
-    });
+            const response = await fetch(source, {
+                method: "HEAD"
+            });
 
+            if (response.ok) {
+
+                audio.src = source;
+                audio.load();
+
+                audio.play().catch(function (error) {
+
+                    console.log(
+                        "Audio playback blocked:",
+                        error
+                    );
+
+                });
+
+                return;
+            }
+
+        } catch (error) {
+
+            console.log(
+                "Could not check:",
+                source
+            );
+
+        }
+    }
+
+    console.log(
+        "No audio file found for:",
+        `${language}/${currentPage}`
+    );
 }
 // =========================================================
 // START COURSE
