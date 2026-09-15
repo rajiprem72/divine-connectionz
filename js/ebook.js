@@ -22,8 +22,8 @@ let totalPages = 0;
 const audioLanguages = [
     "tamil",
     "english",
-    "telugu",
-    "hindi"
+    "hindi",
+    "telugu"
 ];
 // =========================================================
 // HTML ELEMENTS
