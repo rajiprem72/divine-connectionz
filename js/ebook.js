@@ -23,8 +23,8 @@ const audioLanguages = [
     "tamil",
     "english",
     "hindi",
-    "telugu",
-    "kannada"
+    "kannada",
+    "telugu"
 ];
 // =========================================================
 // HTML ELEMENTS
