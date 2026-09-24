@@ -5,7 +5,7 @@
 const books = {
     english: 10,
     gujarati: 22,
-    hindi: 29,
+    hindi: 28,
     malayalam: 31,
     telugu: 36,
     kannada: 31,
@@ -23,6 +23,7 @@ const audioLanguages = [
     "tamil",
     "english",
     "hindi",
+    "kannada"
     "telugu"
 ];
 // =========================================================
